@@ -1,0 +1,29 @@
+<form [formGroup]="formGroup">
+  <div class="input" *ngFor="let filter of filters">
+    <div class="filter" *ngIf="prevSelected(filter.order)">
+      <select>
+        <option
+          *ngFor="
+            let item of filteredData[filter.propToFilter]
+              | uniqe: filter.propToFilter
+          "
+          [value]="item"
+        >
+          {{ item }}
+        </option>
+      </select>
+      <input
+        type="text"
+        [formControlName]="filter.propToFilter"
+        (keyup)="
+          filterData(
+            this.formGroup.get(filter.propToFilter).value,
+            filter.propToFilter
+          )
+        "
+      />
+    </div>
+  </div>
+</form>
+
+<button (click)="sendForm()">Send Form</button>

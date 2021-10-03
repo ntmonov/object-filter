@@ -1,0 +1,3053 @@
+﻿[
+  {
+    "city": "София",
+    "serviceName": "Вирунга 2015 ЕООД",
+    "phoneNumber": "0882 478 471",
+    "address": "кв. Военна рампа бул. Илиянци 56",
+    "email": "virunga2015@abv.bg",
+    "latitude": 42.73464694,
+    "longitude": 23.32503877
+  },
+  {
+    "city": "Силистра",
+    "serviceName": "ЧЕРВЕНА ЗОНА 13 ООД",
+    "phoneNumber": "0894/642033",
+    "address": "бул. „Македония“ 3",
+    "email": "chervena_zona13@abv.bg",
+    "latitude": 44.11367883,
+    "longitude": 27.25557679
+  },
+  {
+    "city": "Стара Загора",
+    "serviceName": "Скай Аутокалър ЕООД",
+    "phoneNumber": "895 933 780",
+    "address": "Калояновско шосе 1",
+    "email": "skyautocolor@gmail.com",
+    "latitude": 42.4085954,
+    "longitude": 25.61670367
+  },
+  {
+    "city": "Добрич",
+    "serviceName": "МВМ Аутоглас ООД / Сим Пет Сим /",
+    "phoneNumber": "0895 999 179",
+    "address": "ул. Поп Богомил №3",
+    "email": "mvmautoglas@gmail.com",
+    "latitude": "4358025274",
+    "longitude": "2782229154"
+  },
+  {
+    "city": "Пловдив",
+    "serviceName": "Ауто Спирит ЕООД",
+    "phoneNumber": "889 870 589",
+    "address": "ул. Вълко Шопов 14",
+    "email": "bsugarev@gmail.com",
+    "latitude": 42.12489617,
+    "longitude": 24.77512903
+  },
+  {
+    "city": "Варна",
+    "serviceName": "Автотранс Сервиз - Варна ООД",
+    "phoneNumber": "886 158 111",
+    "address": "Обиколна №9",
+    "email": "skyautocolor@gmail.com",
+    "latitude": 43.22945945,
+    "longitude": 27.86269153
+  },
+  {
+    "city": "Търговище",
+    "serviceName": "МВМ Аутоглас ООД / Сим Пет Сим /",
+    "phoneNumber": "0899 956 046",
+    "address": "кв. Въбел СБА - технически център",
+    "email": "mvmautoglas@gmail.com",
+    "latitude": 43.24971079,
+    "longitude": 26.56445938
+  },
+  {
+    "city": "Търговище",
+    "serviceName": "Аутободи Експерт ЕООД",
+    "phoneNumber": "0879 126 001",
+    "address": "с.Стража ул. Втора №2",
+    "email": "autoborko@yahoo.com",
+    "latitude": "4319535942",
+    "longitude": "2656702269"
+  },
+  {
+    "city": "Плевен",
+    "serviceName": "АМАРАНТ 2003 ООД",
+    "phoneNumber": "0895/668564",
+    "address": "ул. „Димитър Константинов“ 29, 5800 Плевен Център, Плевен",
+    "email": "PLEVEN@AMARANTSERVICE.BG",
+    "latitude": 43.4190661,
+    "longitude": 24.61021975
+  },
+  {
+    "city": "Благоевград",
+    "serviceName": "ХАМП ЕООД",
+    "phoneNumber": "898 708 229",
+    "address": "Зелендолско шосе",
+    "email": "toniganev@abv.bg",
+    "latitude": 42.01763,
+    "longitude": 23.09045
+  },
+  {
+    "city": "Пловдив",
+    "serviceName": "ХАР ЗДМЛ\"- КОБРА ПЛОВДИВ - стъкла",
+    "phoneNumber": "32262655",
+    "address": "бул. Марица -Юг №182.",
+    "email": "kobraplovdiv@abv.bg",
+    "latitude": 42.15529374,
+    "longitude": 24.77218852
+  },
+  {
+    "city": "Велико Търново",
+    "serviceName": "Автостъкла В. Търново",
+    "phoneNumber": "889657719",
+    "address": "Георги Бакалов 6",
+    "email": "turnovo@autoglass.bg",
+    "latitude": "4307984647",
+    "longitude": "256004016"
+  },
+  {
+    "city": "Хасково",
+    "serviceName": "ЕТ Селена 2001",
+    "phoneNumber": "0889 719 745",
+    "address": "6304 Източна промишлена зона, Хасково",
+    "email": "ivogeorgievbg@gmail.com",
+    "latitude": "4192923367",
+    "longitude": "2557684565"
+  },
+  {
+    "city": "Шумен",
+    "serviceName": "Ел Ди Трейд 10 ЕООД",
+    "phoneNumber": "0893 56 02 99",
+    "address": "ул. Варненско шосе №1",
+    "email": "el_di_trade_10@abv.bg",
+    "latitude": "4328432844",
+    "longitude": "2697302241"
+  },
+  {
+    "city": "Айтос",
+    "serviceName": "АВТО МИРО ООД",
+    "phoneNumber": "0899 626 064",
+    "address": "ул. Караманлиев 65",
+    "email": "bobby_smm@abv.bg",
+    "latitude": 42.69668492,
+    "longitude": 27.2525779
+  },
+  {
+    "city": "Асеновград",
+    "serviceName": "Костадин Петев ЕТ",
+    "phoneNumber": "877775982",
+    "address": "с. Болярци ул. 21-ва 7А",
+    "email": "service.petev@abv.bg",
+    "latitude": 42.06447043,
+    "longitude": 24.96248939
+  },
+  {
+    "city": "Благоевград",
+    "serviceName": "АМ-ГЛАС / само стъкла /",
+    "phoneNumber": "888776363",
+    "address": "ул.В.Левски 24А",
+    "email": "am_glass@abv.bg",
+    "latitude": 42.01409094,
+    "longitude": 23.09143
+  },
+  {
+    "city": "Благоевград",
+    "serviceName": "ЕСПАЙС АУТО ООД",
+    "phoneNumber": "073/832321",
+    "address": "ул. Г.Попов 37",
+    "email": "i.manovski@trayanaauto.bg",
+    "latitude": 42.00974157,
+    "longitude": 23.0755811
+  },
+  {
+    "city": "Благоевград",
+    "serviceName": "ПБ СТОЙЧЕВИ АУТО ЕООД",
+    "phoneNumber": "0899 93 96 63",
+    "address": "Св. Иван Рилски 15",
+    "email": "petio.stoichev@gmail.com",
+    "latitude": 42.02341149,
+    "longitude": 23.10194077
+  },
+  {
+    "city": "Благоевград",
+    "serviceName": "САМ БЛАГОЕВГРАД ООД",
+    "phoneNumber": "073/884025",
+    "address": "месност Антените 2700",
+    "email": "mpbls@motopfohe.bg",
+    "latitude": 42.0448277,
+    "longitude": 23.05112283
+  },
+  {
+    "city": "Благоевград",
+    "serviceName": "СУАБ СБА ЕООД",
+    "phoneNumber": "0895/558593",
+    "address": "бул. Д. Солунски 85",
+    "email": "alexcacev@dir.bg",
+    "latitude": 41.99961604,
+    "longitude": 23.09242787
+  },
+  {
+    "city": "Благоевград",
+    "serviceName": "Технопарк serviceName ЕООД",
+    "phoneNumber": "0876 677 938",
+    "address": "с.Зелендол 2745",
+    "email": "technoparkbg@gmail.com",
+    "latitude": 42.00265027,
+    "longitude": 23.0441544
+  },
+  {
+    "city": "Ботевград",
+    "serviceName": "ЕТ КАЛИН ДРАГНАНОВ",
+    "phoneNumber": "0887/548304",
+    "address": "ул. Цар Освободител двор МТС",
+    "email": "k.draganov1976@abv.bg",
+    "latitude": 42.91038216,
+    "longitude": 23.8067201
+  },
+  {
+    "city": "Ботевград",
+    "serviceName": "КВС Колор ЕООД",
+    "phoneNumber": "0878 699 906",
+    "address": "ул. Кирил и Методий 7",
+    "email": "talasama@abv.bg",
+    "latitude": 42.91141554,
+    "longitude": 23.79337684
+  },
+  {
+    "city": "Ботевград",
+    "serviceName": "РС Колор ЕООД",
+    "phoneNumber": "0888 203 755",
+    "address": "ул. „Ал. Батенберг” №16",
+    "email": "rscolour@abv.bg",
+    "latitude": 42.91149475,
+    "longitude": 23.79313586
+  },
+  {
+    "city": "Бургас",
+    "serviceName": "Авто - Карашев ООД",
+    "phoneNumber": "0877 75 55 57",
+    "address": "ул. Крайезерна 79",
+    "email": "karasheveood@abv.bg",
+    "latitude": 42.50695862,
+    "longitude": 27.44919561
+  },
+  {
+    "city": "Бургас",
+    "serviceName": "АМАРАНТ 2003 ООД",
+    "phoneNumber": "894630624",
+    "address": "ул. Цар Калоян 142 А",
+    "email": "office@chipsaway.bg",
+    "latitude": 42.50479665,
+    "longitude": 27.46006222
+  },
+  {
+    "city": "Бургас",
+    "serviceName": "АПОСТОЛОВ ЕООД",
+    "phoneNumber": "056/849030",
+    "address": "бул. Тодор Александров 8000",
+    "email": "hondaburgas@gmail.com",
+    "latitude": 42.49104865,
+    "longitude": 27.44823537
+  },
+  {
+    "city": "Бургас",
+    "serviceName": "Ауто Експерт ООД",
+    "phoneNumber": "0877/941217",
+    "address": "квартал Победа Димитър Динев",
+    "email": "autoexpert64@abv.bg",
+    "latitude": 42.48579434,
+    "longitude": 27.44554274
+  },
+  {
+    "city": "Бургас",
+    "serviceName": "БетаАуто ЕОД",
+    "phoneNumber": "0878/110667",
+    "address": "ул. Иван Шишман 30",
+    "email": "beta_auto@abv.bg",
+    "latitude": 42.49157542,
+    "longitude": 27.46774537
+  },
+  {
+    "city": "Бургас",
+    "serviceName": "Булавто Бургас",
+    "phoneNumber": "886802252",
+    "address": "ул.Одрин 124",
+    "email": "i.yanakiev@bulauto.com",
+    "latitude": 42.51902821,
+    "longitude": 27.4205482
+  },
+  {
+    "city": "Бургас",
+    "serviceName": "Дани Глас ООД",
+    "phoneNumber": "0887/256747",
+    "address": "ул . Транспортна автокъща Булгас",
+    "email": "daniglass@abv.bg",
+    "latitude": 42.5318346,
+    "longitude": 27.46196927
+  },
+  {
+    "city": "Бургас",
+    "serviceName": "ДЪГА 2005 ЕООД",
+    "phoneNumber": "0887/316603",
+    "address": "ул. Съгласие 11",
+    "email": "daga2005@abv.bg",
+    "latitude": 42.49239752,
+    "longitude": 27.47094247
+  },
+  {
+    "city": "Бургас",
+    "serviceName": "Експрес Сервиз ООД",
+    "phoneNumber": "056/881197",
+    "address": "Мол Бургас",
+    "email": "burgas@autobox.bg",
+    "latitude": 42.52263163,
+    "longitude": 27.46337854
+  },
+  {
+    "city": "Бургас",
+    "serviceName": "ЕТ Бай'д Барт",
+    "phoneNumber": "0888/7957372",
+    "address": "Меден рудник ЮЗП",
+    "email": "etbaidbard@abv.bg",
+    "latitude": 42.50345839,
+    "longitude": 27.47647595
+  },
+  {
+    "city": "Бургас",
+    "serviceName": "ЖЕЛЕВ КАР ЕООД",
+    "phoneNumber": "0899/111839",
+    "address": "ул. Елин Пелин 14",
+    "email": "jelev_car@abv.bg",
+    "latitude": 42.49081338,
+    "longitude": 27.4653722
+  },
+  {
+    "city": "Бургас",
+    "serviceName": "МИФА КИРОВ ЕООД",
+    "phoneNumber": "0888/333135",
+    "address": "кв. Лозово ул. Ястребино 1Б",
+    "email": "mifa_auto@abv.bg",
+    "latitude": 42.53016923,
+    "longitude": 27.40883787
+  },
+  {
+    "city": "Бургас",
+    "serviceName": "Сонерс ЕООД",
+    "phoneNumber": "0888 338 029",
+    "address": "9-ти километър",
+    "email": "oferti@soners.bg",
+    "latitude": 42.55977339,
+    "longitude": 27.42519814
+  },
+  {
+    "city": "Бургас",
+    "serviceName": "СПЕКТА АУТО",
+    "phoneNumber": "0888/011114",
+    "address": "ул. Индустриална 19",
+    "email": "z.markov@spektaauto.com",
+    "latitude": 42.48787294,
+    "longitude": 27.45117717
+  },
+  {
+    "city": "Бургас",
+    "serviceName": "СФА -Доверен Сервиз",
+    "phoneNumber": "0888 153 905",
+    "address": "ул.Транспортна 3",
+    "email": "v.sarafov.burgas@peugeot.bg и h.sirakov.burgas@peugeot.bg",
+    "latitude": 42.53059476,
+    "longitude": 27.45777528
+  },
+  {
+    "city": "Бургас",
+    "serviceName": "Тандер Корпорация ЕАД",
+    "phoneNumber": "0888 996 919",
+    "address": "район 7-километър",
+    "email": "k.balev@gauto.bg",
+    "latitude": 42.50051863,
+    "longitude": 27.46846781
+  },
+  {
+    "city": "Бургас",
+    "serviceName": "ТЕДИКАР СЪРВИС ЕООД",
+    "phoneNumber": "0899/855083",
+    "address": "Авто комплекс НитКар",
+    "email": "nitcar@abv.bg",
+    "latitude": 42.46646874,
+    "longitude": 27.42045409
+  },
+  {
+    "city": "Бургас",
+    "serviceName": "Тома Тодоров и синове ООД- стъкла",
+    "phoneNumber": "056/849898",
+    "address": "бул Т. Александров 8002",
+    "email": "toma_todorov@abv.bg",
+    "latitude": 42.48595038,
+    "longitude": 27.44290441
+  },
+  {
+    "city": "Бургас",
+    "serviceName": "ФБ Моторс ООД",
+    "phoneNumber": "0888 401 999",
+    "address": "СПЗ Автоцентър Мотоексперт",
+    "email": "r.kiryazov@fbmotors.bg",
+    "latitude": 42.52163257,
+    "longitude": 27.4027259
+  },
+  {
+    "city": "Варна",
+    "serviceName": "АВТО ЕЛИТ 2006 ЕООД",
+    "phoneNumber": "0899 912 515",
+    "address": "в двора наЗПЗ ТПК Бриз",
+    "email": "auto_elit2006@abv.bg",
+    "latitude": 43.22328891,
+    "longitude": 27.8604162
+  },
+  {
+    "city": "Варна",
+    "serviceName": "Автостъкла Варна",
+    "phoneNumber": "893511296",
+    "address": "бул. „Цар Освободител“ 232, 9023 Север",
+    "email": "deandenchev@gmail.com",
+    "latitude": 43.23298153,
+    "longitude": 27.85976274
+  },
+  {
+    "city": "Варна",
+    "serviceName": "Автостъкла Триплекс ЕООД - стъкла",
+    "phoneNumber": "0899 101 505",
+    "address": "ул Прилеп 111",
+    "email": "efolio.bg@gmail.com",
+    "latitude": 43.2336159,
+    "longitude": 27.90640614
+  },
+  {
+    "city": "Варна",
+    "serviceName": "АНДРЕА 07 - АТАНАСОВИ ЕООД",
+    "phoneNumber": "0896/639361",
+    "address": "бул. Трети Март КООП 1",
+    "email": "andrea_07@abv.bg",
+    "latitude": 43.23953226,
+    "longitude": 27.87308084
+  },
+  {
+    "city": "Варна",
+    "serviceName": "АРТАКАР ЕООД",
+    "phoneNumber": "0898/444048",
+    "address": "ул. Уста Колю Фичето 19",
+    "email": "artacar@abv.bg",
+    "latitude": 43.2171762,
+    "longitude": 27.874422
+  },
+  {
+    "city": "Варна",
+    "serviceName": "АУТО ЕКСПРЕС БГ ООД",
+    "phoneNumber": "052/500590",
+    "address": "ул. Моргаш 27",
+    "email": "mitkoexpress@abv.bg",
+    "latitude": 43.23666986,
+    "longitude": 27.86678107
+  },
+  {
+    "city": "Варна",
+    "serviceName": "Ауто Здравец",
+    "phoneNumber": "0888 808918",
+    "address": "с.Здравец ул. Отец Паисий 1",
+    "email": "sisiauto@abv.bg",
+    "latitude": 43.20799661,
+    "longitude": 27.89053192
+  },
+  {
+    "city": "Варна",
+    "serviceName": "АУТО ФИНЕС ЕООД",
+    "phoneNumber": "0888/705536",
+    "address": "ул. Божур 7",
+    "email": "AUTOFINES@ABV.BG",
+    "latitude": 43.22051423,
+    "longitude": 27.91002317
+  },
+  {
+    "city": "Варна",
+    "serviceName": "Варна Ауто Про ЕООД",
+    "phoneNumber": "0887 678597",
+    "address": "Подп.Калитин 7",
+    "email": "varna_auto_pro@abv.bg",
+    "latitude": 43.22181959,
+    "longitude": 27.91802727
+  },
+  {
+    "city": "Варна",
+    "serviceName": "Варна Брайт ЕООД / ВРЕМЕННО НЕ РАБОТИ /",
+    "phoneNumber": "897838523",
+    "address": "жк Младост бл.105",
+    "email": "varnabright@mail.bg",
+    "latitude": 43.2295154,
+    "longitude": 27.88385853
+  },
+  {
+    "city": "Варна",
+    "serviceName": "Дали 99",
+    "phoneNumber": "052 780129",
+    "address": "ул. Баучер № 3-А-7",
+    "email": "dmdcolor2@abv.bg",
+    "latitude": 43.21789276,
+    "longitude": 27.9205056
+  },
+  {
+    "city": "Варна",
+    "serviceName": "ДИ ЕНД ДИ БИЛД",
+    "phoneNumber": "0893/600420",
+    "address": "ул. Георги Стаматов 1",
+    "email": "policar@abv.bg",
+    "latitude": 43.17954998,
+    "longitude": 27.90198937
+  },
+  {
+    "city": "Варна",
+    "serviceName": "ЕТ АВТОТРАНС СЕРВИЗ",
+    "phoneNumber": "0888/216064",
+    "address": "ул. Тролейна 48",
+    "email": "avtotransserviz@abv.bg",
+    "latitude": 43.22982343,
+    "longitude": 27.89044383
+  },
+  {
+    "city": "Варна",
+    "serviceName": "Кар Пейнт 57 ООД",
+    "phoneNumber": "888218377",
+    "address": "д-р Железкова 6",
+    "email": "carpaint57@abv.bg",
+    "latitude": 42.71027436,
+    "longitude": 23.41876959
+  },
+  {
+    "city": "Варна",
+    "serviceName": "Колор Груп Варна ЕООД",
+    "phoneNumber": "052/507772",
+    "address": "ул. Мургаш 7",
+    "email": "color_group@abv.bg",
+    "latitude": 43.23656156,
+    "longitude": 27.86752427
+  },
+  {
+    "city": "Варна",
+    "serviceName": "КОЛОР ПРОФИ ЦЕНТЪР ООД",
+    "phoneNumber": "052/599602",
+    "address": "бул. Варненчик 325",
+    "email": "color.profi.center@gmail.com",
+    "latitude": 43.22488083,
+    "longitude": 27.86196431
+  },
+  {
+    "city": "Варна",
+    "serviceName": "ОНИКС АУТО ГРУП ООД",
+    "phoneNumber": "0879/806555",
+    "address": "ул. Ген. Столетов 15",
+    "email": "tk@onyx-colors.bg",
+    "latitude": 43.2118567,
+    "longitude": 27.9243533
+  },
+  {
+    "city": "Варна",
+    "serviceName": "ОТО 2005 ЕООД",
+    "phoneNumber": "0885/894695",
+    "address": "ул. В.Априлов 7",
+    "email": "oto_2005@abv.bg",
+    "latitude": 43.21593064,
+    "longitude": 27.906435
+  },
+  {
+    "city": "Варна",
+    "serviceName": "РАДЕВИ АУТО ООД",
+    "phoneNumber": "0893/528881",
+    "address": "кв. Аспарухово ул Паркова 15",
+    "email": "service_radevi@abv.bg",
+    "latitude": 43.11360097,
+    "longitude": 27.82698774
+  },
+  {
+    "city": "Варна",
+    "serviceName": "Топ Ауто 2006",
+    "phoneNumber": "0887/29809",
+    "address": "Христо Смирненски 19",
+    "email": "top.auto@abv.bg",
+    "latitude": 43.22513871,
+    "longitude": 27.89341207
+  },
+  {
+    "city": "Варна",
+    "serviceName": "Тръст 13 ЕООД",
+    "phoneNumber": "0886 011 887",
+    "address": "бул. Цар Осободител 109",
+    "email": "trust13eood@abv.bg",
+    "latitude": 43.21664974,
+    "longitude": 27.91027671
+  },
+  {
+    "city": "Варна",
+    "serviceName": "ХИТ АУТО ООД",
+    "phoneNumber": "0888/331376",
+    "address": "бул. Цар Осободител 181",
+    "email": "hitauto09@abv.bg",
+    "latitude": 43.23389336,
+    "longitude": 27.87164603
+  },
+  {
+    "city": "Варна",
+    "serviceName": "Шама 2 ЕООД",
+    "phoneNumber": "0888 778 600",
+    "address": "ул. Дебър 54",
+    "email": "tazgang@abv.bg",
+    "latitude": 43.20028144,
+    "longitude": 27.9085517
+  },
+  {
+    "city": "Велико Търново",
+    "serviceName": "А.КАРАИЛИЕВ 63 ЕООД / ПОЛИГАРИ /",
+    "phoneNumber": "878807934",
+    "address": "с. Поликраище ул. Павел Баня 68",
+    "email": "jordan.karailiev@abv.bg",
+    "latitude": 43.17545,
+    "longitude": 25.62508
+  },
+  {
+    "city": "Велико Търново",
+    "serviceName": "Авто Хит Петрови ООД",
+    "phoneNumber": "0888 507 537",
+    "address": "гр. Лясковец бул. Трети март 68",
+    "email": "isp1971@abv.bg",
+    "latitude": 43.11155001,
+    "longitude": 25.70814124
+  },
+  {
+    "city": "Велико Търново",
+    "serviceName": "АВТО ЧОЙС ООД",
+    "phoneNumber": "0888/375247",
+    "address": "Западен Пътен Възел",
+    "email": "ivan.dimitrov@autochoice-vw.com",
+    "latitude": 43.07685676,
+    "longitude": 25.59662118
+  },
+  {
+    "city": "Велико Търново",
+    "serviceName": "Алекс - 68 Ал. Александров ЕООД",
+    "phoneNumber": "0888 810 473",
+    "address": "с. Леденик",
+    "email": "aleks6807@abv.bg",
+    "latitude": 43.08254986,
+    "longitude": 25.54378458
+  },
+  {
+    "city": "Велико Търново",
+    "serviceName": "Венци В.Търново ЕООД",
+    "phoneNumber": "882200218",
+    "address": "ул.Тридесет и шеста 5",
+    "email": "service_vt@venci.bg",
+    "latitude": 43.08108517,
+    "longitude": 25.59318768
+  },
+  {
+    "city": "Велико Търново",
+    "serviceName": "Вил Сервиз ООД",
+    "phoneNumber": "0888 606 604",
+    "address": "ул. Панорама 22",
+    "email": "vil.serviz@gmail.com",
+    "latitude": 43.08248,
+    "longitude": 25.62818
+  },
+  {
+    "city": "Велико Търново",
+    "serviceName": "Даскалови-57 ООД",
+    "phoneNumber": "888981445",
+    "address": "бул. България 43",
+    "email": "s.daskalova@motopfohe.bg",
+    "latitude": 43.08050889,
+    "longitude": 25.61027806
+  },
+  {
+    "city": "Велико Търново",
+    "serviceName": "ЕТ Христо Серафимов-2000",
+    "phoneNumber": "0878 480737",
+    "address": "ул.Ген. Сава Мутурков №5",
+    "email": "hes_2408@abv.bg",
+    "latitude": 43.07141787,
+    "longitude": 25.60864704
+  },
+  {
+    "city": "Велико Търново",
+    "serviceName": "Коларов ООД",
+    "phoneNumber": "0899 171 099",
+    "address": "с.Леденик",
+    "email": "mari76@abv.bg",
+    "latitude": 43.08254986,
+    "longitude": 25.54378458
+  },
+  {
+    "city": "Велико Търново",
+    "serviceName": "Кристина 2004 ЕООД",
+    "phoneNumber": "0888 606 602",
+    "address": "Проф. И. Янкулов 3А",
+    "email": "chibi69@abv.bg",
+    "latitude": 43.078556,
+    "longitude": 25.627157
+  },
+  {
+    "city": "Велико Търново",
+    "serviceName": "НИТОН АВТО ЕООД",
+    "phoneNumber": "879833005",
+    "address": "с.Шереметя ул. Първа 16",
+    "email": "niton_avto@abv.bg",
+    "latitude": 43.07681698,
+    "longitude": 25.69282039
+  },
+  {
+    "city": "Велико Търново",
+    "serviceName": "ОНИКС АВТО ООД",
+    "phoneNumber": "062/628095",
+    "address": "ул. Магистрална 9",
+    "email": "plamen.hristov@onyx-auto.com",
+    "latitude": 43.07242998,
+    "longitude": 25.61994927
+  },
+  {
+    "city": "Велико Търново",
+    "serviceName": "Панорама ЕООД - ремонт стъкла",
+    "phoneNumber": "0884 079 436",
+    "address": "ул. Мальовица 21",
+    "email": "ivan_penchev@yahoo.com",
+    "latitude": 43.08333218,
+    "longitude": 25.61844857
+  },
+  {
+    "city": "Велико Търново",
+    "serviceName": "Роуд 66",
+    "phoneNumber": "0888 600 601",
+    "address": "гр. Лясковец ул. Георги Крънзов 9",
+    "email": "info@route66.bg",
+    "latitude": 43.11194091,
+    "longitude": 25.70468677
+  },
+  {
+    "city": "Велико Търново",
+    "serviceName": "Славена ЕООД",
+    "phoneNumber": "0887 935 115",
+    "address": "ул. П. Волов 5",
+    "email": "d.dimitrov63@abv.bg",
+    "latitude": 43.08653694,
+    "longitude": 25.62518864
+  },
+  {
+    "city": "Велико Търново",
+    "serviceName": "СФА - Доверен Сервиз",
+    "phoneNumber": "0877 003 666",
+    "address": "разклон с. Леденик",
+    "email": "t.todorov.vt@peugeot.bg",
+    "latitude": 43.08469132,
+    "longitude": 25.57790046
+  },
+  {
+    "city": "Велико Търново",
+    "serviceName": "ТЪРНОВО ДИЗЕЛ ЕООД",
+    "phoneNumber": "0894/675427",
+    "address": "ул. Н.Габровски 82 а",
+    "email": "tarnovo_dizel@abv.bg",
+    "latitude": 43.07382276,
+    "longitude": 25.6094716
+  },
+  {
+    "city": "Видин",
+    "serviceName": "АХАТ ЕООД",
+    "phoneNumber": "094/607774",
+    "address": "ул.Осъм 1",
+    "email": "axat_ood@abv.bg",
+    "latitude": 43.99008782,
+    "longitude": 22.8637436
+  },
+  {
+    "city": "Видин",
+    "serviceName": "Банг Ауто ЕООД",
+    "phoneNumber": "0887 309 729",
+    "address": "с.Иново ул. Бдин 5",
+    "email": "boobi1957@abv.bg",
+    "latitude": 43.98855856,
+    "longitude": 22.87688274
+  },
+  {
+    "city": "Видин",
+    "serviceName": "ГОГО 79 ЕООД",
+    "phoneNumber": "0896 358597",
+    "address": "ул. Преславска 18",
+    "email": "gogo-79@abv.bg",
+    "latitude": 44.02859792,
+    "longitude": 22.82583691
+  },
+  {
+    "city": "Видин",
+    "serviceName": "СКОРПИОН -ЯНЕК ЕООД",
+    "phoneNumber": "094/606006",
+    "address": "жк Бонония бл.27 вх.Б",
+    "email": "ianek_69@abv.bg",
+    "latitude": 43.99858691,
+    "longitude": 22.88230007
+  },
+  {
+    "city": "Видин",
+    "serviceName": "ТАНИ ЕООД",
+    "phoneNumber": "0888 761 791",
+    "address": "Западна Складова Зона",
+    "email": "tanieood@abv.bg",
+    "latitude": 43.98597656,
+    "longitude": 22.86220515
+  },
+  {
+    "city": "Враца",
+    "serviceName": "ЕТ СИЛВИ",
+    "phoneNumber": "0878/166465",
+    "address": "ул. 2-ри юни 134",
+    "email": "s.angelova.vr@abv.bg",
+    "latitude": 43.19005145,
+    "longitude": 23.5765514
+  },
+  {
+    "city": "Враца",
+    "serviceName": "ЕТ Т.Тасков-Г.Данова",
+    "phoneNumber": "0887 712 133",
+    "address": "с.Лиляче ул. Дунав 1",
+    "email": "autoliliache@abv.bg",
+    "latitude": 43.32166,
+    "longitude": 23.52367
+  },
+  {
+    "city": "Враца",
+    "serviceName": "КАРСЕРВИЗ",
+    "phoneNumber": "878300411",
+    "address": "ул. Цвета Кръстенякова 3",
+    "email": "carservis@abv.bg",
+    "latitude": 43.20903978,
+    "longitude": 23.5529983
+  },
+  {
+    "city": "Враца",
+    "serviceName": "ТИТ ООД",
+    "phoneNumber": "0889 11 11 65",
+    "address": "ул Илинден 4",
+    "email": "i.chernogorski@titauto.com",
+    "latitude": 43.21392479,
+    "longitude": 23.5425967
+  },
+  {
+    "city": "Габрово",
+    "serviceName": "ФЕНИКС РМ ЕООД",
+    "phoneNumber": "0898/588430",
+    "address": "ул. Найден Геров 6",
+    "email": "rumen_avto@abv.bg",
+    "latitude": 42.89862082,
+    "longitude": 25.30722103
+  },
+  {
+    "city": "Габрово",
+    "serviceName": "Авто Колор ЕООД",
+    "phoneNumber": "0876 702 311",
+    "address": "ул Осми Март 69",
+    "email": "avto-kolor@abv.bg",
+    "latitude": 42.86345611,
+    "longitude": 25.48425506
+  },
+  {
+    "city": "Габрово",
+    "serviceName": "Братчеда ООД",
+    "phoneNumber": "0898 594 077",
+    "address": "гр. Плачковци ул. Билка 17",
+    "email": "arhi_97405@abv.bg",
+    "latitude": 42.829313,
+    "longitude": 25.47973
+  },
+  {
+    "city": "Габрово",
+    "serviceName": "ВЕНЦИ ГАБРОВО ООД",
+    "phoneNumber": "066/81081",
+    "address": "ул. Хр. Смирненски 88",
+    "email": "s.hristova@venci.bg",
+    "latitude": 42.88995518,
+    "longitude": 25.32417074
+  },
+  {
+    "city": "Габрово",
+    "serviceName": "Ринката ЕООД",
+    "phoneNumber": "0898 632 343",
+    "address": "с. Музга ул. Еделвайс 2",
+    "email": "rinkata@abv.bg",
+    "latitude": 42.89701493,
+    "longitude": 25.14488259
+  },
+  {
+    "city": "Габрово",
+    "serviceName": "ЧАПЕК ЕООД",
+    "phoneNumber": "0899/804326",
+    "address": "ул. Етро Поле 7",
+    "email": "avtoserviz_chapek@abv.bg",
+    "latitude": 42.89547274,
+    "longitude": 25.33494407
+  },
+  {
+    "city": "Димитровград",
+    "serviceName": "Ауто Мобил Груп ООД",
+    "phoneNumber": "0899 96 28 69",
+    "address": "кв. Марийново ул. Марица 36",
+    "email": "autovasilevi@abv.bg",
+    "latitude": 42.07358475,
+    "longitude": 25.56654637
+  },
+  {
+    "city": "Димитровград",
+    "serviceName": "Димитър Пенев ЕООД",
+    "phoneNumber": "898621133",
+    "address": "ул. Струга 13",
+    "email": "d.g.avtoserviz@gmail.com",
+    "latitude": 42.05324355,
+    "longitude": 25.60579427
+  },
+  {
+    "city": "Добрич",
+    "serviceName": "Автогланц ООД",
+    "phoneNumber": "0899 145 146",
+    "address": "гр. Каварна ул Странджа 71",
+    "email": "drag_racer@abv.bg",
+    "latitude": 43.43549038,
+    "longitude": 28.33929892
+  },
+  {
+    "city": "Добрич",
+    "serviceName": "Автоколор ЕООД",
+    "phoneNumber": "0899 95 4248",
+    "address": "ул. Река Осъм 3",
+    "email": "office@avtocolor.net",
+    "latitude": 43.47392,
+    "longitude": 28.0945
+  },
+  {
+    "city": "Добрич",
+    "serviceName": "АВТОМОТОР ДОБРИЧ АД/ Анимекс/",
+    "phoneNumber": "0884/418809",
+    "address": "бул. Варненски път 49",
+    "email": "ivelin.ivanov@citroen.bg",
+    "latitude": 43.53594706,
+    "longitude": 27.8197529
+  },
+  {
+    "city": "Добрич",
+    "serviceName": "АВТОЦАР - АЛ. БОРИСОВ",
+    "phoneNumber": "0898/288963",
+    "address": "бул. 25-ти Септември 35",
+    "email": "AVTOTZAR@ABV.BG",
+    "latitude": 43.57424432,
+    "longitude": 27.8273667
+  },
+  {
+    "city": "Добрич",
+    "serviceName": "Археос 80 ЕООД",
+    "phoneNumber": "0888 319 345",
+    "address": "ж.к. Дружба №2 бл.11",
+    "email": "nedmobil@abv.bg",
+    "latitude": 43.5834,
+    "longitude": 27.82367
+  },
+  {
+    "city": "Добрич",
+    "serviceName": "Асистанс ЕООД",
+    "phoneNumber": "897551148",
+    "address": "бул. Трети март 50",
+    "email": "zxsa@abv.bg",
+    "latitude": 43.56157793,
+    "longitude": 27.80797237
+  },
+  {
+    "city": "Добрич",
+    "serviceName": "Атанасови Глас / Кобра Добрич /",
+    "phoneNumber": "0894 081 004",
+    "address": "ул. Иван Кършовски 5А",
+    "email": "atanasovi_06@abv.bg",
+    "latitude": 43.56054823,
+    "longitude": 27.81422703
+  },
+  {
+    "city": "Добрич",
+    "serviceName": "Евро Кар ЕООД",
+    "phoneNumber": "0887 585 634",
+    "address": "ул. Калиакра 68А",
+    "email": "eurocervicedb@abv.bg",
+    "latitude": 43.59053546,
+    "longitude": 27.8129635
+  },
+  {
+    "city": "Добрич",
+    "serviceName": "ИвКар Спорт ООД",
+    "phoneNumber": "0888 222 615",
+    "address": "бул. 25-ти септември 4",
+    "email": "vasilev.ford@abv.bg",
+    "latitude": 43.54770351,
+    "longitude": 27.82363624
+  },
+  {
+    "city": "Добрич",
+    "serviceName": "Моторекс 83 ЕООД",
+    "phoneNumber": "0897 563 938",
+    "address": "ул. Омуртаг 12А",
+    "email": "petar_83cbr@abv.bg",
+    "latitude": 43.56896377,
+    "longitude": 27.81706797
+  },
+  {
+    "city": "Добрич",
+    "serviceName": "МОТОТОМ",
+    "phoneNumber": "897805252",
+    "address": "бул. 25-ти Септември 6",
+    "email": "toshko.todorov@mototom.toyota.bg",
+    "latitude": 43.54833998,
+    "longitude": 27.823634
+  },
+  {
+    "city": "Добрич",
+    "serviceName": "СПЕКТЪР М ЕООД",
+    "phoneNumber": "0888/816778",
+    "address": "ул. Иглика 1",
+    "email": "spektro.m@abv.bg",
+    "latitude": 43.5804283,
+    "longitude": 27.83440844
+  },
+  {
+    "city": "Дупница",
+    "serviceName": "Макси Сервиз ЕООД",
+    "phoneNumber": "089 368 2804",
+    "address": "ул. Княз Борис I-ви №32",
+    "email": "maxiservicedupnitsa@gmail.com",
+    "latitude": 41.37844088,
+    "longitude": 25.07989511
+  },
+  {
+    "city": "Златоград",
+    "serviceName": "К & К – Кристиян Угорлиев ЕТ",
+    "phoneNumber": "0894 744 451",
+    "address": "ул. „Родопи” 7",
+    "email": "kifeto@abv.bg",
+    "latitude": 41.37845698,
+    "longitude": 25.07990584
+  },
+  {
+    "city": "Златоград",
+    "serviceName": "КАПРО ЕООД",
+    "phoneNumber": "0893/455772",
+    "address": "ул. Хр. Ботев 6",
+    "email": "kaproltd@gmail.com",
+    "latitude": 41.38167428,
+    "longitude": 25.10208827
+  },
+  {
+    "city": "Исперих",
+    "serviceName": "АВТОКОЛОР ИСПЕРИХ",
+    "phoneNumber": "0879/574135",
+    "address": "ул. Васил Левски 3",
+    "email": "avtokolor.isperih@gmail.com",
+    "latitude": 42.61843487,
+    "longitude": 25.3787815
+  },
+  {
+    "city": "Исперих",
+    "serviceName": "Ауто Стар 11 ЕООД",
+    "phoneNumber": "0888 88 64 39",
+    "address": "ул. Камчия №8",
+    "email": "ac11@mail.bg",
+    "latitude": 43.71827614,
+    "longitude": 26.82565827
+  },
+  {
+    "city": "Исперих",
+    "serviceName": "ЕТ Рачо-Ковача",
+    "phoneNumber": "0888 863 605",
+    "address": "ул. С. Румянцев 25",
+    "email": "racho_kovacha_et@abv.bg",
+    "latitude": 43.70888003,
+    "longitude": 26.83714904
+  },
+  {
+    "city": "Казанлък",
+    "serviceName": "Авторепаратура Ви-Лак ЕООД",
+    "phoneNumber": "0887 218 293",
+    "address": "бул. „Княз Ал. Батенберг” 215",
+    "email": "avtoreparatura.vi-lak@abv.bg",
+    "latitude": 42.61727136,
+    "longitude": 25.41041777
+  },
+  {
+    "city": "Казанлък",
+    "serviceName": "ПОПА ЕООД",
+    "phoneNumber": "0887/742303",
+    "address": "село Енина 3",
+    "email": "plamipopova@abv.bg",
+    "latitude": 42.66787264,
+    "longitude": 25.40630558
+  },
+  {
+    "city": "Казанлък",
+    "serviceName": "Тангра ЛК ООД",
+    "phoneNumber": "0897 918 751",
+    "address": "ул. Цанко Минков 101",
+    "email": "spiroboya@abv.bg",
+    "latitude": 42.61510377,
+    "longitude": 25.3758049
+  },
+  {
+    "city": "Карнобат",
+    "serviceName": "ДИДИКАР ЕООД",
+    "phoneNumber": "0885 509 965",
+    "address": "Промишлена зона север",
+    "email": "jenny_d@abv.bg",
+    "latitude": 42.65383066,
+    "longitude": 26.97928605
+  },
+  {
+    "city": "Карнобат",
+    "serviceName": "ЕТ ДИГЕ АУТО КОМЕРС",
+    "phoneNumber": "0899 337 777",
+    "address": "Промишлена зона север",
+    "email": "digeautokomerce@abv.bg",
+    "latitude": 42.64419652,
+    "longitude": 26.97975843
+  },
+  {
+    "city": "Кърджали",
+    "serviceName": "КАЛИНКА КАР ЕООД",
+    "phoneNumber": "0888/454759",
+    "address": "село Калинка обл. Кърджали",
+    "email": "service-kalinka@hotmail.com",
+    "latitude": 41.67379026,
+    "longitude": 25.36260433
+  },
+  {
+    "city": "Кърджали",
+    "serviceName": "Кием-Емил Чилингиров",
+    "phoneNumber": "877338872",
+    "address": "жк Възрожденци бл.62",
+    "email": "kiemserviz@abv.bg",
+    "latitude": 41.63832773,
+    "longitude": 25.34992837
+  },
+  {
+    "city": "Кърджали",
+    "serviceName": "Чанков 66 - ЕООД",
+    "phoneNumber": "0887/319915",
+    "address": "ул. Тина Киркова 18",
+    "email": "inmi@abv.bg",
+    "latitude": 41.61050259,
+    "longitude": 25.37728173
+  },
+  {
+    "city": "Кюстендил",
+    "serviceName": "Авто Трейд-Р ЕООД",
+    "phoneNumber": "899992199",
+    "address": "бул. България 44",
+    "email": "iliannna1970@abv.bg",
+    "latitude": 42.28647872,
+    "longitude": 22.68439277
+  },
+  {
+    "city": "Кюстендил",
+    "serviceName": "ДАЛЕКС ООД",
+    "phoneNumber": "0898/56358",
+    "address": "ул. Запад бл. 90",
+    "email": "dalekskn@gmail.com",
+    "latitude": 42.27636148,
+    "longitude": 22.67156787
+  },
+  {
+    "city": "Кюстендил",
+    "serviceName": "ИБА ООД",
+    "phoneNumber": "0885 665 699",
+    "address": "кв. Върташево Цар Петър 11",
+    "email": "vasilsh@abv.bg",
+    "latitude": 42.29065562,
+    "longitude": 22.69974587
+  },
+  {
+    "city": "Ловеч",
+    "serviceName": "3М АВТОСЕРВИЗ ООД",
+    "phoneNumber": "0887/401746",
+    "address": "с. Лисец, ул. Централна 51",
+    "email": "milko.mitkov@abv.bg",
+    "latitude": 43.1836121,
+    "longitude": 24.66338753
+  },
+  {
+    "city": "Монтана",
+    "serviceName": "ЕС ДИ 5М ООД",
+    "phoneNumber": "0898 658 580",
+    "address": "ул Извора 31",
+    "email": "emil_stankov99@abv.bg",
+    "latitude": 43.40655277,
+    "longitude": 23.2198039
+  },
+  {
+    "city": "Пазарджик",
+    "serviceName": "Аполо 13 ООД",
+    "phoneNumber": "0889 557 777",
+    "address": "ул. Пловдивска 5",
+    "email": "autoapolo@abv.bg",
+    "latitude": 42.19004628,
+    "longitude": 24.33793297
+  },
+  {
+    "city": "Пазарджик",
+    "serviceName": "Еврокар ООД",
+    "phoneNumber": "898557150",
+    "address": "Пловдивско шосе пк4000",
+    "email": "evrokarood@abv.bg",
+    "latitude": 42.18828881,
+    "longitude": 24.37345928
+  },
+  {
+    "city": "Пазарджик",
+    "serviceName": "Еспас Ауто ООД /бивш Ауто 1 /",
+    "phoneNumber": "0888 626 699",
+    "address": "ул. Пловдивска 103",
+    "email": "j.gerginski@espaceauto.eu",
+    "latitude": 42.18744448,
+    "longitude": 24.35141307
+  },
+  {
+    "city": "Пазарджик",
+    "serviceName": "РЕАЛ ВД",
+    "phoneNumber": "0889/319473",
+    "address": "бул.Ст.Стамболов 17",
+    "email": "vasildoichev@yahoo.com",
+    "latitude": 42.18355438,
+    "longitude": 24.3482589
+  },
+  {
+    "city": "Пазарджик",
+    "serviceName": "Салкин - 8 ЕООД",
+    "phoneNumber": "0898 646 113",
+    "address": "гр. Велинград Иван Вазов 5А",
+    "email": "salkin7@abv.bg",
+    "latitude": 42.02697545,
+    "longitude": 23.99352077
+  },
+  {
+    "city": "Перник",
+    "serviceName": "Боби Ауто АБ ЕООД",
+    "phoneNumber": "0885 355 655",
+    "address": "ул. Ботевград 15",
+    "email": "bobiautoab@gmail.com",
+    "latitude": 42.61432687,
+    "longitude": 23.03232664
+  },
+  {
+    "city": "Перник",
+    "serviceName": "ВЕРМАН АУТО АД",
+    "phoneNumber": "0766/01752",
+    "address": "кв. димова махала 19",
+    "email": "vermanpernik@abv.bg",
+    "latitude": 42.60733856,
+    "longitude": 23.04842336
+  },
+  {
+    "city": "Перник",
+    "serviceName": "Колор Стил ЕООД",
+    "phoneNumber": "898 481 850",
+    "address": "с. Драгичево ул. Възраждане 20",
+    "email": "kolor_stil@mail.bg",
+    "latitude": 42.60389987,
+    "longitude": 23.1374427
+  },
+  {
+    "city": "Перник",
+    "serviceName": "Петър Петров -77 ЕТ",
+    "phoneNumber": "886437640",
+    "address": "ул. Казанлък 12",
+    "email": "petar_petrovv@abv.bg",
+    "latitude": 42.61484927,
+    "longitude": 23.03113327
+  },
+  {
+    "city": "Перник",
+    "serviceName": "РОКО 666 ЕООД",
+    "phoneNumber": "0899 230 605",
+    "address": "ул. Крум Накаев 33",
+    "email": "v.boyanov66@abv.bg",
+    "latitude": 42.59186217,
+    "longitude": 23.1115296
+  },
+  {
+    "city": "Петрич",
+    "serviceName": "\"Фиаталис Велкови\" ЕООД",
+    "phoneNumber": "0894 450 600",
+    "address": "ул Гоце Делчев 12",
+    "email": "boqn.velkov@abv.bg",
+    "latitude": 41.39286963,
+    "longitude": 23.2076386
+  },
+  {
+    "city": "Петрич",
+    "serviceName": "ЕТ ОРИГИНАЛ - Д.ХРИСТОВ",
+    "phoneNumber": "0887/395369",
+    "address": "ул .Асен Златарев 14",
+    "email": "mitaco@abv.bg",
+    "latitude": 41.39727812,
+    "longitude": 23.20751917
+  },
+  {
+    "city": "Пещера",
+    "serviceName": "Герчев serviceName ЕООД",
+    "phoneNumber": "0876 797 934",
+    "address": "ул. Г. Геленов 5",
+    "email": "emil_stankov99@abv.bg",
+    "latitude": 42.03486552,
+    "longitude": 24.30048193
+  },
+  {
+    "city": "Плевен",
+    "serviceName": "Авто Лейк ООД",
+    "phoneNumber": "0888 667 924",
+    "address": "ул. Христо Ботев 149",
+    "email": "avtoleik@abv.bg",
+    "latitude": 43.40268477,
+    "longitude": 24.626184
+  },
+  {
+    "city": "Плевен",
+    "serviceName": "АВТО СТИЛ ЕООД",
+    "phoneNumber": "0888/679115",
+    "address": "бул. Г. Кочев 4",
+    "email": "service_avtostil@greatwall.bg",
+    "latitude": 43.41382317,
+    "longitude": 24.63377267
+  },
+  {
+    "city": "Плевен",
+    "serviceName": "Автопрогрес",
+    "phoneNumber": "888219086",
+    "address": "ул. Г. Бенковски 49",
+    "email": "avtoprogres.pleven@gmail.com",
+    "latitude": 43.41365097,
+    "longitude": 24.62467227
+  },
+  {
+    "city": "Плевен",
+    "serviceName": "Автостил ЕООД",
+    "phoneNumber": "0888 679 115",
+    "address": "ул Шипка 11",
+    "email": "avtostil@greatwall.bg",
+    "latitude": 43.40486276,
+    "longitude": 24.62257704
+  },
+  {
+    "city": "Плевен",
+    "serviceName": "АСИ ООД",
+    "phoneNumber": "0878 786861",
+    "address": "ул. Софийско шосе №8",
+    "email": "pleven@kia.bg",
+    "latitude": 43.42629617,
+    "longitude": 24.60027173
+  },
+  {
+    "city": "Плевен",
+    "serviceName": "Ауто Гланц ЕООД",
+    "phoneNumber": "885779342",
+    "address": "кв.Дружба 134",
+    "email": "glanc_avto@abv.bg",
+    "latitude": 43.399623,
+    "longitude": 24.639492
+  },
+  {
+    "city": "Плевен",
+    "serviceName": "Весати-63 ООД",
+    "phoneNumber": "0878 879 281",
+    "address": "ул Владимир Бурмов 8",
+    "email": "atanas1961p@abv.bg",
+    "latitude": 43.42110846,
+    "longitude": 24.6021197
+  },
+  {
+    "city": "Плевен",
+    "serviceName": "Дъга Сервиз ЕООД",
+    "phoneNumber": "0887 582 452",
+    "address": "ул. ДокторГ.М. Димитров 125",
+    "email": "daga_95@abv.bg",
+    "latitude": 43.41064317,
+    "longitude": 24.59411137
+  },
+  {
+    "city": "Плевен",
+    "serviceName": "ЕТ Даше -Людмил Ванков",
+    "phoneNumber": "0888/971736",
+    "address": "с. Гулянци 5970",
+    "email": "et_dashe@abv.bg",
+    "latitude": 43.64118429,
+    "longitude": 24.69674575
+  },
+  {
+    "city": "Плевен",
+    "serviceName": "МИРАЖ ЕООД",
+    "phoneNumber": "0888/202046",
+    "address": "\"НЕК\" ЕАД ж.к. Дружба бл.331",
+    "email": "miraj.pleven@abv.bg",
+    "latitude": 43.40624,
+    "longitude": 24.65105
+  },
+  {
+    "city": "Плевен",
+    "serviceName": "Плевен Авто ЕООД",
+    "phoneNumber": "064 834082",
+    "address": "ул. Българска авиация 2",
+    "email": "vlukanovcitroen@abv.bg",
+    "latitude": 43.42157376,
+    "longitude": 24.60958484
+  },
+  {
+    "city": "Плевен",
+    "serviceName": "Супер Авто ООД",
+    "phoneNumber": "0888 715 056",
+    "address": "село Брестовец, ул. Хаджи димитър 3",
+    "email": "superauto_vasilev@abv.bg",
+    "latitude": 43.40679265,
+    "longitude": 24.616384
+  },
+  {
+    "city": "Плевен",
+    "serviceName": "Хидерна ООД - стъкла",
+    "phoneNumber": "0888 926 176",
+    "address": "ул. Гривишко шосе 1",
+    "email": "hiderna@yahoo.com",
+    "latitude": 43.41461067,
+    "longitude": 24.6591974
+  },
+  {
+    "city": "Пловдив",
+    "serviceName": "АВТО ЕКСПЕРТ 2020 ООД",
+    "phoneNumber": "0897 299 203",
+    "address": "бул. „Кукленско шосе“ 17",
+    "email": "divrigova@yahoo.com",
+    "latitude": 42.12495543,
+    "longitude": 24.758299
+  },
+  {
+    "city": "Пловдив",
+    "serviceName": "Автокомплекс - Прециз ЕООД",
+    "phoneNumber": ". 088 72 72 411",
+    "address": "бул. „Васил Левски“ 172",
+    "email": "precizauto@mail.bg",
+    "latitude": 42.17631663,
+    "longitude": 24.74333317
+  },
+  {
+    "city": "Пловдив",
+    "serviceName": "АВТОСЕРВИЗ АНГЕЛОВ ЕООД",
+    "phoneNumber": "0882/579444",
+    "address": "ул. Сава Моткуров 22",
+    "email": "autoservice_angelov@abv.bg",
+    "latitude": 42.15574896,
+    "longitude": 24.73938543
+  },
+  {
+    "city": "Пловдив",
+    "serviceName": "serviceName Стар Сервиз ЕООД",
+    "phoneNumber": "0896 846 584",
+    "address": "гр. Съидинение ул. Пловдив 87",
+    "email": "pusauto@abv.bg",
+    "latitude": 42.27197255,
+    "longitude": 24.54668374
+  },
+  {
+    "city": "Пловдив",
+    "serviceName": "АМАРАНТ 2003 ООД",
+    "phoneNumber": "0898 61 56 25",
+    "address": "ул. Кукленско шосе 25",
+    "email": "plovdiv@amarantservice.bg",
+    "latitude": 42.12850125,
+    "longitude": 24.75657367
+  },
+  {
+    "city": "Пловдив",
+    "serviceName": "Ауто Стайл ЕООД",
+    "phoneNumber": "0889 726 726",
+    "address": "ул. Пещерско шосе 213",
+    "email": "autostail@abv.bg",
+    "latitude": 42.13216249,
+    "longitude": 24.68047283
+  },
+  {
+    "city": "Пловдив",
+    "serviceName": "Ауто Ташев ЕООД",
+    "phoneNumber": "32669099",
+    "address": "бул.Цариградско шосе 83",
+    "email": "bodyrepair@autotashev.com",
+    "latitude": 42.14812159,
+    "longitude": 24.80027697
+  },
+  {
+    "city": "Пловдив",
+    "serviceName": "Аутофикс - 2009 ООД",
+    "phoneNumber": "0897 83 71 18",
+    "address": "ул. Славейна 6",
+    "email": "autofix@mail.bg",
+    "latitude": 42.14472819,
+    "longitude": 24.76414179
+  },
+  {
+    "city": "Пловдив",
+    "serviceName": "ВЕСТ ВТ",
+    "phoneNumber": "0899/106862",
+    "address": "ул. Остромила 1",
+    "email": "west_service@abv.bg",
+    "latitude": 42.11687997,
+    "longitude": 24.7218052
+  },
+  {
+    "city": "Пловдив",
+    "serviceName": "ДЖАНГЪРА 2 ЕООД",
+    "phoneNumber": "0887/721702",
+    "address": "ул. Ягода 6",
+    "email": "JANGARA2@ABV.BG",
+    "latitude": 42.12093465,
+    "longitude": 24.73389214
+  },
+  {
+    "city": "Пловдив",
+    "serviceName": "Дженералс Ауто ЕООД",
+    "phoneNumber": "899144330",
+    "address": "ул.В. Априлов 139",
+    "email": "generals_auto@abv.bg",
+    "latitude": 42.16611289,
+    "longitude": 24.72226719
+  },
+  {
+    "city": "Пловдив",
+    "serviceName": "Джи Ей Ауто ЕООД",
+    "phoneNumber": "0888 254 840",
+    "address": "ул. Белица 12",
+    "email": "office@gaauto-bg.com",
+    "latitude": 42.13065864,
+    "longitude": 24.7014264
+  },
+  {
+    "city": "Пловдив",
+    "serviceName": "ДОР НЕД ЕООД",
+    "phoneNumber": "0882/802592",
+    "address": "ул. Пещерско шосе 35",
+    "email": "sarafa@abv.bg",
+    "latitude": 42.13983035,
+    "longitude": 24.72976347
+  },
+  {
+    "city": "Пловдив",
+    "serviceName": "ЕТ Д.В.М.-Диян Георгиев",
+    "phoneNumber": "0888 204 160",
+    "address": "бул.България 2",
+    "email": "georgiev_auto@abv.bg",
+    "latitude": 42.16109044,
+    "longitude": 24.76310704
+  },
+  {
+    "city": "Пловдив",
+    "serviceName": "ЕТ Пенев - П.Пенев",
+    "phoneNumber": "0888 332413",
+    "address": "ул. Кукленско шосе 17",
+    "email": "p.penev@abv.bg",
+    "latitude": 42.12495941,
+    "longitude": 24.75826681
+  },
+  {
+    "city": "Пловдив",
+    "serviceName": "ЕТ Петър Тонов",
+    "phoneNumber": "0888 305 173",
+    "address": "с.Калековец ул. Цар Иван Асен 49",
+    "email": "miro.tonov@gmail.com",
+    "latitude": 42.24156,
+    "longitude": 24.82281
+  },
+  {
+    "city": "Пловдив",
+    "serviceName": "ЕТ УНИВЕРСАЛ ХР. ПЕТРУШЕВ",
+    "phoneNumber": "0895/251945",
+    "address": "с.Ягодово ул.Шипка 6",
+    "email": "hristopetrushev.universal@abv.bg",
+    "latitude": 42.11328515,
+    "longitude": 24.84645683
+  },
+  {
+    "city": "Пловдив",
+    "serviceName": "Каргруп 1 ЕООД",
+    "phoneNumber": "0898 350 475",
+    "address": "Рогошко шосе 6 хале 21",
+    "email": "kargrup_1@abv.bg",
+    "latitude": 42.16052909,
+    "longitude": 24.76897864
+  },
+  {
+    "city": "Пловдив",
+    "serviceName": "ЛИТЕКС МОТОРС АД",
+    "phoneNumber": "0879/227047",
+    "address": "ул Карловско шосе 4",
+    "email": "n_gevezov@greatwall.bg",
+    "latitude": 42.19667454,
+    "longitude": 24.7366783
+  },
+  {
+    "city": "Пловдив",
+    "serviceName": "Ратола ПЛ ЕООД",
+    "phoneNumber": "0888 00 58 58",
+    "address": "бул. Цариградско шосе 92",
+    "email": "office@ratola.bg",
+    "latitude": 42.14840798,
+    "longitude": 24.78329927
+  },
+  {
+    "city": "Пловдив",
+    "serviceName": "РС Автогланц ООД",
+    "phoneNumber": "0878 658 696",
+    "address": "гр.Баня ул. Иван Рилски 17",
+    "email": "autoglanc@gmail.com",
+    "latitude": 42.54945239,
+    "longitude": 24.8261374
+  },
+  {
+    "city": "Пловдив",
+    "serviceName": "Сервиз ДУДОВ 200 ЕООД",
+    "phoneNumber": "032/626834",
+    "address": "жк. Тракия бл. 7 вх. Г ап. 9",
+    "email": "tzdudova@zbkbalkan.com",
+    "latitude": 42.13537065,
+    "longitude": 24.7811455
+  },
+  {
+    "city": "Пловдив",
+    "serviceName": "СТЕФАНОВ АВТОСЕРВИЗ",
+    "phoneNumber": "0888 523570",
+    "address": "с. Ягодово, ул. Мизия 1",
+    "email": "stefanov_auto@mail.bg",
+    "latitude": 42.112627,
+    "longitude": 24.85358884
+  },
+  {
+    "city": "Пловдив",
+    "serviceName": "Таргет ООД",
+    "phoneNumber": "0887 317 066",
+    "address": "ул. Георги Бенев 3",
+    "email": "target_ltd@abv.bg",
+    "latitude": 42.16573684,
+    "longitude": 24.73019
+  },
+  {
+    "city": "Пловдив",
+    "serviceName": "ТПК ТРАКИЯ",
+    "phoneNumber": "0888/733985",
+    "address": "ул. Владая 8",
+    "email": "tpk_trakia_scteti@abv.bg",
+    "latitude": 42.15371694,
+    "longitude": 24.77327173
+  },
+  {
+    "city": "Пловдив",
+    "serviceName": "Туин Кар ЕООД",
+    "phoneNumber": "0899 841 729",
+    "address": "бул.Марица 51",
+    "email": "twincar@abv.bg",
+    "latitude": 42.15478685,
+    "longitude": 24.73898114
+  },
+  {
+    "city": "Пловдив",
+    "serviceName": "ФУЛДА БЪЛГАРИЯ",
+    "phoneNumber": "032/242168",
+    "address": "ул. Пещерско шосе 38",
+    "email": "a.todorov@motoexpert.bg",
+    "latitude": 42.1386377,
+    "longitude": 24.72236787
+  },
+  {
+    "city": "Пловдив",
+    "serviceName": "Христов 93 ЕООД",
+    "phoneNumber": "0887 954 565",
+    "address": "ул. В.Левски 107",
+    "email": "autoservice_hristov@abv.bg",
+    "latitude": 42.16202079,
+    "longitude": 24.74260524
+  },
+  {
+    "city": "Пловдив",
+    "serviceName": "ЧИЛИК ЕКСПЕРТ ЕООД",
+    "phoneNumber": "0878/673700",
+    "address": "ул. Захаридово 20",
+    "email": "CHILIK_AUTO@ABV.BG",
+    "latitude": 42.10403622,
+    "longitude": 24.706954
+  },
+  {
+    "city": "Първомай",
+    "serviceName": "СОФИ КАР ЕООД",
+    "phoneNumber": "0877/087707",
+    "address": "ул. Княз Борис 1",
+    "email": "tnaskov@abv.bg",
+    "latitude": 42.08878,
+    "longitude": 25.20818
+  },
+  {
+    "city": "Разград",
+    "serviceName": "АУТО СТЕВ ООД",
+    "phoneNumber": "0888/357193",
+    "address": "Ул. Странджа 41",
+    "email": "AUTOSTEV@ABV.BG",
+    "latitude": 43.52329166,
+    "longitude": 26.51351867
+  },
+  {
+    "city": "Разград",
+    "serviceName": "БАРНИ АУТО ЕООД",
+    "phoneNumber": "0892 455 636",
+    "address": "ж.к. Орел бл.20",
+    "email": "barniauto.ltd@gmail.com",
+    "latitude": 43.51542232,
+    "longitude": 26.51921377
+  },
+  {
+    "city": "Разград",
+    "serviceName": "ПРИМА М ЕООД",
+    "phoneNumber": "0887 253 965",
+    "address": "ул. Бели Лом 35А",
+    "email": "prima.m@abv.bg",
+    "latitude": 43.52588044,
+    "longitude": 26.5270117
+  },
+  {
+    "city": "Рудозем",
+    "serviceName": "ЛИДЕР КАР 300 ЕООД",
+    "phoneNumber": "0878/661866",
+    "address": "ул. Христо ботев 15",
+    "email": "drumex@abv.bg",
+    "latitude": 41.49145,
+    "longitude": 24.83958
+  },
+  {
+    "city": "Русе",
+    "serviceName": "АВТОСТЪКЛА ООД - стъкла",
+    "phoneNumber": "82873021",
+    "address": "ул. Братя Миладинови №29",
+    "email": "ruse@autoglass.bg",
+    "latitude": 43.83395026,
+    "longitude": 25.94797004
+  },
+  {
+    "city": "Русе",
+    "serviceName": "Адея Русе ЕООД",
+    "phoneNumber": "0888 83 63 60",
+    "address": "ул.Филип Станиславов 5",
+    "email": "milen_elitcar@abv.bg",
+    "latitude": 43.8380048,
+    "longitude": 25.97462287
+  },
+  {
+    "city": "Русе",
+    "serviceName": "ГЛАСС ГОЛД ГРУП ЕУ -стъкла",
+    "phoneNumber": "876255400",
+    "address": "бул. България №115",
+    "email": "glassgoldgroup_slatina@abv.bg",
+    "latitude": 43.85880895,
+    "longitude": 26.0143569
+  },
+  {
+    "city": "Русе",
+    "serviceName": "Екоавто ЕООД",
+    "phoneNumber": "0899 111 620",
+    "address": "ул. Адмирал Рождественски 42",
+    "email": "ecoauto3@gmail.com",
+    "latitude": 43.82759924,
+    "longitude": 25.93833957
+  },
+  {
+    "city": "Русе",
+    "serviceName": "Енчев ЕООД",
+    "phoneNumber": "0888 639 967",
+    "address": "ул Мидия Енос 8",
+    "email": "enchev63@abv.bg",
+    "latitude": 43.83340152,
+    "longitude": 25.9542547
+  },
+  {
+    "city": "Русе",
+    "serviceName": "ЕС ТРАНС ООД",
+    "phoneNumber": "888208858",
+    "address": "бул. Липник 62А",
+    "email": "reception@estrans.net",
+    "latitude": 43.85038029,
+    "longitude": 25.98065843
+  },
+  {
+    "city": "Русе",
+    "serviceName": "Мариела -2010- АМ ЕООД",
+    "phoneNumber": "0878 320333",
+    "address": "ул.Филип Тотю 1",
+    "email": "krossaa@abv.bg",
+    "latitude": 43.84096249,
+    "longitude": 25.94628194
+  },
+  {
+    "city": "Русе",
+    "serviceName": "ПИТ СТОП ЕООД",
+    "phoneNumber": "0888/309627",
+    "address": "ул. Ярловица 15",
+    "email": "pitstop@abv.bg",
+    "latitude": 43.8705986,
+    "longitude": 26.03296002
+  },
+  {
+    "city": "Русе",
+    "serviceName": "Хоби - Кар ЕООД",
+    "phoneNumber": "082 500 493",
+    "address": "бул. Хр. Ботев 1",
+    "email": "service@hobby-car.bg",
+    "latitude": 43.83606888,
+    "longitude": 25.96476824
+  },
+  {
+    "city": "Самоков",
+    "serviceName": "Дивал 2 ЕООД",
+    "phoneNumber": "878712214",
+    "address": "гр.Самоков ул Грънчар 30",
+    "email": "dival2@abv.bg",
+    "latitude": 42.34292,
+    "longitude": 23.54932
+  },
+  {
+    "city": "Сандански",
+    "serviceName": "Сияна Авто ЕООД",
+    "phoneNumber": "878470777",
+    "address": "ул Хан Крум 12",
+    "email": "didi_avto03@abv.bg",
+    "latitude": 41.55857746,
+    "longitude": 23.284969
+  },
+  {
+    "city": "Свиленград",
+    "serviceName": "АУТО ПАПИ ООД",
+    "phoneNumber": "0888/668888",
+    "address": "ул. Ген. Скобелев 21",
+    "email": "autopapi@abv.bg",
+    "latitude": 41.77020718,
+    "longitude": 26.20760984
+  },
+  {
+    "city": "Свиленград",
+    "serviceName": "АУТО ПЕРФЕКТ 07 ЕООД",
+    "phoneNumber": "0888 802 633",
+    "address": "ул. П.Хитов 2",
+    "email": "autoperfect07@abv.bg",
+    "latitude": 41.76738239,
+    "longitude": 26.2071801
+  },
+  {
+    "city": "Свиленград",
+    "serviceName": "КФЦ ПРО ЕООД",
+    "phoneNumber": "0877 979 897",
+    "address": "ул. В- Левски 84",
+    "email": "kfzpro@abv.bg",
+    "latitude": 41.77048138,
+    "longitude": 26.21034747
+  },
+  {
+    "city": "Силистра",
+    "serviceName": "Ками Кар ЕООД",
+    "phoneNumber": "0887 216 185",
+    "address": "7-ми Септември №22",
+    "email": "ros_car@abv.bg",
+    "latitude": 44.11761039,
+    "longitude": 27.27238446
+  },
+  {
+    "city": "Силистра",
+    "serviceName": "Статев-2008 ЕООД",
+    "phoneNumber": "0888 325 726",
+    "address": "с. Калипетрово индустриална зона",
+    "email": "statev2008@abv.bg",
+    "latitude": 44.09548413,
+    "longitude": 27.24698046
+  },
+  {
+    "city": "Сливен",
+    "serviceName": "АВТОТРАВМАТОЛОГИЯ ЕООД",
+    "phoneNumber": "0887/441546",
+    "address": "кв. Речица, ПЗ",
+    "email": "auto@abv.bg",
+    "latitude": 42.63058163,
+    "longitude": 26.28677351
+  },
+  {
+    "city": "Сливен",
+    "serviceName": "ДВ Роял ООД",
+    "phoneNumber": "0877 500 775",
+    "address": "ул.Самуиловско шосе 24",
+    "email": "dvroql@abv.bg",
+    "latitude": 42.63814733,
+    "longitude": 26.32557854
+  },
+  {
+    "city": "Сливен",
+    "serviceName": "КАЛЕ АУТО ООД",
+    "phoneNumber": "044/666665",
+    "address": "ул. Цар Симеон 18А",
+    "email": "office@kaleauto.com",
+    "latitude": 42.65266035,
+    "longitude": 26.33968957
+  },
+  {
+    "city": "Сливен",
+    "serviceName": "Мототехника Сливен АД",
+    "phoneNumber": "0887/313116",
+    "address": "ул. Самуиловско шосе 1",
+    "email": "dan_nik73@abv.bg",
+    "latitude": 42.64930277,
+    "longitude": 26.32412554
+  },
+  {
+    "city": "Сливен",
+    "serviceName": "Сливен Ауто ООД",
+    "phoneNumber": "888395415",
+    "address": "ж.к. \"Дружба\", Бургаско шосе №57",
+    "email": "sl_auto@abv.bg",
+    "latitude": 42.67418619,
+    "longitude": 26.34601424
+  },
+  {
+    "city": "Сливен",
+    "serviceName": "СФА - Доверен Сервиз",
+    "phoneNumber": "044 600 10 111",
+    "address": "ул. Банско шосе 25",
+    "email": "service.sliven@peugeot.bg",
+    "latitude": 42.63727148,
+    "longitude": 26.30149928
+  },
+  {
+    "city": "Смолян",
+    "serviceName": "Велец - 94 ЕООД",
+    "phoneNumber": "0878 878 770",
+    "address": "ул Проф. Асен Василев 25",
+    "email": "velec94@abv.bg",
+    "latitude": 41.58272443,
+    "longitude": 24.70567007
+  },
+  {
+    "city": "София",
+    "serviceName": "А и Н Комерс",
+    "phoneNumber": "0888 551 878",
+    "address": "кв. Враждебна ул. 53-та №8.",
+    "email": "zori_121@mail.bg",
+    "latitude": 42.70806926,
+    "longitude": 23.4202793
+  },
+  {
+    "city": "София",
+    "serviceName": "А+Експерт Център ООД",
+    "phoneNumber": "0883 23 23 83",
+    "address": "ул. Сини вир-ъгъл бул. Гешов с/у OMV",
+    "email": "apluspriemna@gmail.com",
+    "latitude": 42.69145838,
+    "longitude": 23.29746156
+  },
+  {
+    "city": "София",
+    "serviceName": "Авангард-ДК",
+    "phoneNumber": "885260025",
+    "address": "Сточна гара ул. К. Стоилов 2",
+    "email": "office@avangard-dk.com",
+    "latitude": 42.70726781,
+    "longitude": 23.33272064
+  },
+  {
+    "city": "София",
+    "serviceName": "Авто Вип Сервиз",
+    "phoneNumber": "0886 11 10 10",
+    "address": "бул. Сливница 429",
+    "email": "autovipservice@abv.bg",
+    "latitude": 42.84016808,
+    "longitude": 23.32312351
+  },
+  {
+    "city": "София",
+    "serviceName": "Авто Експрес ЕООД",
+    "phoneNumber": "0889 16 16 16",
+    "address": "Обелско шосе 3В",
+    "email": "autoekspres@abv.bg",
+    "latitude": 42.72983425,
+    "longitude": 23.25854801
+  },
+  {
+    "city": "София",
+    "serviceName": "Авто Лакир Център ООД",
+    "phoneNumber": "0887 299 166",
+    "address": "ул. Адам Мицкевич № 61 - Модерно предградие",
+    "email": "alz.service@abv.bg",
+    "latitude": 42.72286512,
+    "longitude": 23.28406673
+  },
+  {
+    "city": "София",
+    "serviceName": "АВТО СТИЛ 17 ЕООД",
+    "phoneNumber": "0887 244 052",
+    "address": "с. Герман ул.Патриарх Герман 117",
+    "email": "avtostil17@abv.bg",
+    "latitude": 42.62579187,
+    "longitude": 23.42274654
+  },
+  {
+    "city": "София",
+    "serviceName": "Авто Холд 2020 ЕООД",
+    "phoneNumber": "0887 88 99 85",
+    "address": "1.Овча Купел 2.Орландовци",
+    "email": "awtohold@gmail.com",
+    "latitude": 42.72439334,
+    "longitude": 23.3221361
+  },
+  {
+    "city": "София",
+    "serviceName": "Авто Юнион Сервиз ЕООД - Запад",
+    "phoneNumber": "0889 046 932",
+    "address": "ул. Воденичарски път 4",
+    "email": "service2@avtounion.bg",
+    "latitude": 42.73962245,
+    "longitude": 23.24858307
+  },
+  {
+    "city": "София",
+    "serviceName": "serviceName Русинов ЕООД",
+    "phoneNumber": "0898 707 123",
+    "address": "ул. Илия Бешков 1",
+    "email": "autorusinov@abv.bg",
+    "latitude": 42.66282923,
+    "longitude": 23.40702414
+  },
+  {
+    "city": "София",
+    "serviceName": "Автостъкла ООД / Кобра /",
+    "phoneNumber": "29317777",
+    "address": "кв. Орландовци ул. Бесарабия 55",
+    "email": "mira@autoglass.bg",
+    "latitude": 42.70576888,
+    "longitude": 23.37373329
+  },
+  {
+    "city": "София",
+    "serviceName": "Агрон Сервиз ООД",
+    "phoneNumber": "02/936 73 44",
+    "address": "кв. Бенковски, ул. Кооп труд 28",
+    "email": "office@agronservice.bg",
+    "latitude": 42.740189,
+    "longitude": 23.35158063
+  },
+  {
+    "city": "София",
+    "serviceName": "Александър Ауто 74 ЕООД",
+    "phoneNumber": "0887 43 33 13",
+    "address": "кв. Република ул.729",
+    "email": "alexander_auto74@abv.bg",
+    "latitude": 42.73678766,
+    "longitude": 23.2401102
+  },
+  {
+    "city": "София",
+    "serviceName": "АМАРАНТ 2003 ООД",
+    "phoneNumber": "0893 55 43 43",
+    "address": "ул. Михаил Тенев 15",
+    "email": "pavel@amarantservice.bg",
+    "latitude": 42.66302384,
+    "longitude": 23.38698883
+  },
+  {
+    "city": "София",
+    "serviceName": "Анита-Д ООД",
+    "phoneNumber": "0899 820 126",
+    "address": "кв. Военна Рампа бул. Илиянци 12",
+    "email": "anita_d_eood@abv.bg",
+    "latitude": 42.73112612,
+    "longitude": 23.31987101
+  },
+  {
+    "city": "София",
+    "serviceName": "Арт Ауто ЕООД",
+    "phoneNumber": "0888 00 63 63",
+    "address": "кв. Захарна фабрика ул. Иван Хаджиев 2",
+    "email": "artautobg@gmail.com",
+    "latitude": 42.71117135,
+    "longitude": 23.28654953
+  },
+  {
+    "city": "София",
+    "serviceName": "АУТО ГРУП 1 ЕООД",
+    "phoneNumber": "0886 737 102",
+    "address": "ул.\"Поручик Неделчо Бончев\"No5а",
+    "email": "autogroup_1@abv.bg",
+    "latitude": 42.67107834,
+    "longitude": 23.40820597
+  },
+  {
+    "city": "София",
+    "serviceName": "Аутомол ЕООД",
+    "phoneNumber": "888999929",
+    "address": "ж.к. Илинден бл.79 вх.В ап.63",
+    "email": "automall.ltd.bg@gmail.com",
+    "latitude": 42.70441228,
+    "longitude": 23.28927
+  },
+  {
+    "city": "София",
+    "serviceName": "Ашли ЕООД",
+    "phoneNumber": "0888 750 712",
+    "address": "ул. Ришки проход 4",
+    "email": "tanya_1957@abv.bg",
+    "latitude": 42.69251949,
+    "longitude": 23.27683867
+  },
+  {
+    "city": "София",
+    "serviceName": "Би Ти Ай Спорт 2016 ЕООД",
+    "phoneNumber": "0887 619 027",
+    "address": "Дружба Искърско шосе 19А",
+    "email": "bitiaisporteood@abv.bg",
+    "latitude": 42.66931503,
+    "longitude": 23.40124944
+  },
+  {
+    "city": "София",
+    "serviceName": "Ветек ЕООД",
+    "phoneNumber": "0888 527 249",
+    "address": "кв. Връбница ул. Академична",
+    "email": "vetek@abv.bg",
+    "latitude": 42.74410064,
+    "longitude": 23.2870755
+  },
+  {
+    "city": "София",
+    "serviceName": "ГЛАС ГОЛД ГРУП ЕУ ООД/само стъкла/",
+    "phoneNumber": "02 / 4722219",
+    "address": "жк Люлин 7 ул Орион 84 /бивш Булвария/",
+    "email": "glassgoldgroup@abv.bg",
+    "latitude": 42.68046435,
+    "longitude": 23.3757659
+  },
+  {
+    "city": "София",
+    "serviceName": "Даком 2005 ООД",
+    "phoneNumber": "988378512",
+    "address": "кв. Горна Баня",
+    "email": "dakom_@abv.bg",
+    "latitude": 42.68873335,
+    "longitude": 23.22919194
+  },
+  {
+    "city": "София",
+    "serviceName": "Дент Вижън Тийм - ПДР технология",
+    "phoneNumber": "0896 707 970",
+    "address": "ул. Самоковско шосе 1",
+    "email": "office@dentvisionteam.com",
+    "latitude": 42.64388838,
+    "longitude": 23.3999035
+  },
+  {
+    "city": "София",
+    "serviceName": "ДЖЕНЕРЪС АУТО ЕООД",
+    "phoneNumber": "02/8080400 или 410",
+    "address": "бул. Цветан Лазаров 99",
+    "email": "Stanimir.popov@gauto.bg",
+    "latitude": 42.6534577,
+    "longitude": 23.40400037
+  },
+  {
+    "city": "София",
+    "serviceName": "Джет Колори ЕООД",
+    "phoneNumber": "0884 256 566",
+    "address": "ул. Лунна папрат 3",
+    "email": "service@jetcolori.com",
+    "latitude": 42.66003065,
+    "longitude": 23.26012254
+  },
+  {
+    "city": "София",
+    "serviceName": "ДЖОКИ ЕООД",
+    "phoneNumber": "0888/635942",
+    "address": "ул. Смърч №38",
+    "email": "auto_joki_aa@abv.bg",
+    "latitude": 42.68977505,
+    "longitude": 23.26031804
+  },
+  {
+    "city": "София",
+    "serviceName": "ЕВЕЛ 1 ЕООД",
+    "phoneNumber": "0888 413 160",
+    "address": "кв. Горна Баня ул. подлозище 25",
+    "email": "evel.eood@gmail.com",
+    "latitude": 42.68867256,
+    "longitude": 23.22875033
+  },
+  {
+    "city": "София",
+    "serviceName": "ЕВЕЛ 2 ЕООД",
+    "phoneNumber": "0888 639 774",
+    "address": "кв. Павлово ул. Вихрен 35",
+    "email": "evel.eood@gmail.com",
+    "latitude": 42.66601718,
+    "longitude": 23.2710961
+  },
+  {
+    "city": "София",
+    "serviceName": "Елион 13 ООД",
+    "phoneNumber": "0888 268524",
+    "address": "инж.Иван Иванов 9",
+    "email": "elion13@abv.bg",
+    "latitude": 42.69195854,
+    "longitude": 23.292113
+  },
+  {
+    "city": "София",
+    "serviceName": "ЕТ РУБИН Н ФИЛИПОВ",
+    "phoneNumber": "0888/563206",
+    "address": "ул.Първа Българска Армия 13",
+    "email": "rubin@mail.bg",
+    "latitude": 42.72467318,
+    "longitude": 23.32457507
+  },
+  {
+    "city": "София",
+    "serviceName": "ЕТ СТОИЛ СТОИЛОВ",
+    "phoneNumber": "878466433",
+    "address": "с. Мусачево ул. Извора 21",
+    "email": "s_i_d@mail.bg",
+    "latitude": 42.6789474,
+    "longitude": 23.57777393
+  },
+  {
+    "city": "София",
+    "serviceName": "ЕТ ЯНИМА - РУМЕН ЯНКОВ",
+    "phoneNumber": "888451753",
+    "address": "с. Равно Поле ул Завоя 6",
+    "email": "ianimabg@gmail.com",
+    "latitude": 42.67283601,
+    "longitude": 23.52647098
+  },
+  {
+    "city": "София",
+    "serviceName": "ЗАКОНС ЕООД",
+    "phoneNumber": "0888 665 399",
+    "address": "с. Чепинци ул. Стара Планина 64",
+    "email": "office@zacons.com",
+    "latitude": 42.76561098,
+    "longitude": 23.43536843
+  },
+  {
+    "city": "София",
+    "serviceName": "Ивал Авто ООД",
+    "phoneNumber": "0884 980 242",
+    "address": "гр. София бул. Ломско шосе № 261 / Пътен възел за с. Мрамор /",
+    "email": "info@ivalauto.com",
+    "latitude": 42.75184462,
+    "longitude": 23.27494172
+  },
+  {
+    "city": "София",
+    "serviceName": "Ивко Ауто ЕООД",
+    "phoneNumber": "876308031",
+    "address": "Искърско шосе 19 бивш Поликар и кв. Дианабад ул. \"П. Зографски\" №13",
+    "email": "ivko.auto2014@gmail.com",
+    "latitude": 42.69350497,
+    "longitude": 23.29507137
+  },
+  {
+    "city": "София",
+    "serviceName": "Иноксис 01 ЕООД",
+    "phoneNumber": "02 843 0243",
+    "address": "ул. Русалка 12А",
+    "email": "inoxis@inoxis.bg",
+    "latitude": 42.69485694,
+    "longitude": 23.34914694
+  },
+  {
+    "city": "София",
+    "serviceName": "Инсауто Веркщат ЕООД",
+    "phoneNumber": "0888 70 00 74",
+    "address": "с. Казичене ул. Ал. Стамболийски 17",
+    "email": "office.insauto@gmail.com",
+    "latitude": 42.65525911,
+    "longitude": 23.46745722
+  },
+  {
+    "city": "София",
+    "serviceName": "КАПЧИН ЕООД",
+    "phoneNumber": "0888/954978",
+    "address": "ул. Б.Бойчев 93 Б",
+    "email": "kaptchin@yahoo.com",
+    "latitude": 42.67342942,
+    "longitude": 23.25049
+  },
+  {
+    "city": "София",
+    "serviceName": "Кар Пейнт ЕООД",
+    "phoneNumber": "0888 338 216",
+    "address": "кв.Враждебна ул. 46-та №23",
+    "email": "car_paint@abv.bg",
+    "latitude": 42.7102113,
+    "longitude": 23.41876959
+  },
+  {
+    "city": "София",
+    "serviceName": "Кар Пейнт Сервиз ООД",
+    "phoneNumber": "0885 555 199",
+    "address": "бул. Искърско шосе 111Б",
+    "email": "office@carpaintservice.bg",
+    "latitude": 42.66901116,
+    "longitude": 23.40049234
+  },
+  {
+    "city": "София",
+    "serviceName": "Кар Рефайн ЕООД",
+    "phoneNumber": "0888 786 231",
+    "address": "1. кв Чепинци 2. ж.к Младост 4",
+    "email": "car_refine@abv.bg",
+    "latitude": 42.65551417,
+    "longitude": 23.38183013
+  },
+  {
+    "city": "София",
+    "serviceName": "КОЛОР АРТ ООД",
+    "phoneNumber": "0888/509879",
+    "address": "село Горни Лозен ул. Проф. Н. Маринов 28",
+    "email": "kolorart@abv.bg",
+    "latitude": 42.61509035,
+    "longitude": 23.464631
+  },
+  {
+    "city": "София",
+    "serviceName": "Къстъм Рефиниш",
+    "phoneNumber": "899252673",
+    "address": "ж.к. Димитър Миленков 244 / бивш ОК сервиз /",
+    "email": "glozanov82@gmail.com",
+    "latitude": 42.65428354,
+    "longitude": 23.42765517
+  },
+  {
+    "city": "София",
+    "serviceName": "Лазурит Сервиз ООД",
+    "phoneNumber": "0889 208 993",
+    "address": "бул. „Ботевградско шосе“ №282",
+    "email": "service@lasuritservice.com",
+    "latitude": 42.70938522,
+    "longitude": 23.42086133
+  },
+  {
+    "city": "София",
+    "serviceName": "М Ауто 2008 ЕООД",
+    "phoneNumber": "898353520",
+    "address": "Княжево ул. 717 №6",
+    "email": "mauto2008@abv.bg",
+    "latitude": 42.65697403,
+    "longitude": 23.2349855
+  },
+  {
+    "city": "София",
+    "serviceName": "Монстър Гараж ЕООД",
+    "phoneNumber": "0878 544 444",
+    "address": "кв. Кръстова вада ул. Гатьо Шишков 2",
+    "email": "monstergarage.bg@gmail.com",
+    "latitude": 42.65530706,
+    "longitude": 23.30924361
+  },
+  {
+    "city": "София",
+    "serviceName": "Ник Ауто 09 ЕООД",
+    "phoneNumber": "898 822 652",
+    "address": "Връбница ул.266-та 14 с/у МС - Обеля",
+    "email": "nikauto09@gmail.com",
+    "latitude": 42.74092347,
+    "longitude": 23.2779975
+  },
+  {
+    "city": "София",
+    "serviceName": "П и Р - 06 ЕООД",
+    "phoneNumber": "898222210",
+    "address": "Чепинско Шосе 15",
+    "email": "pr_auto@abv.bg",
+    "latitude": 42.72595736,
+    "longitude": 23.37139045
+  },
+  {
+    "city": "София",
+    "serviceName": "ПЛАНИВЕКС 2004 ЕООД",
+    "phoneNumber": "0886/842028",
+    "address": "ул.Челопешко шосе 7",
+    "email": "planivex@abv.bg",
+    "latitude": 42.71145706,
+    "longitude": 23.43231886
+  },
+  {
+    "city": "София",
+    "serviceName": "Полмо-Авто ЕООД",
+    "phoneNumber": "0888 612 207",
+    "address": "кв. Орландовци ул. Мара Бунева 99",
+    "email": "polmoauto@gmail.com",
+    "latitude": 42.72909852,
+    "longitude": 23.3438324
+  },
+  {
+    "city": "София",
+    "serviceName": "ПРЕМИУМ АУТО СЕРВИЗ ЕООД",
+    "phoneNumber": "0882/171799",
+    "address": "кв. Военна Рампа бул. „Илиянци“ 12-14",
+    "email": "d.dimitrov@premiumauto.bg",
+    "latitude": 42.74207722,
+    "longitude": 23.3321384
+  },
+  {
+    "city": "София",
+    "serviceName": "ПроМобил Сервиз ЕООД",
+    "phoneNumber": "29601417",
+    "address": "бул. Искърско шосе 13",
+    "email": "Nikolay.Borisov@promobile.bg",
+    "latitude": 42.67002518,
+    "longitude": 23.3986148
+  },
+  {
+    "city": "София",
+    "serviceName": "Рестарт Колор ЕООД",
+    "phoneNumber": "0896 929 181",
+    "address": "бул. „Ботевградско шосе” 389",
+    "email": "gamma_color@abv.bg",
+    "latitude": 42.70890863,
+    "longitude": 23.41445696
+  },
+  {
+    "city": "София",
+    "serviceName": "РИМОГАРД",
+    "phoneNumber": "0878/320573",
+    "address": "кв. Враждебна, ул. Пета 1",
+    "email": "an.01@abv.bg",
+    "latitude": 42.71710681,
+    "longitude": 23.40352247
+  },
+  {
+    "city": "София",
+    "serviceName": "С и Р Къмпани ООД",
+    "phoneNumber": "0887 346 647",
+    "address": "с. Казичене ул. Спас Андреев 14",
+    "email": "sir_company@abv.bg",
+    "latitude": 42.66005615,
+    "longitude": 23.47101533
+  },
+  {
+    "city": "София",
+    "serviceName": "Сарафови - 1 ООД",
+    "phoneNumber": "0882 333 880",
+    "address": "кв. Карпузица бул. Никола Петков 73",
+    "email": "service@sarafoviauto.bg",
+    "latitude": 42.66688035,
+    "longitude": 23.2573545
+  },
+  {
+    "city": "София",
+    "serviceName": "Сим Пет Сим ООД / стъкла /",
+    "phoneNumber": "0886 573 300",
+    "address": "Военна рампа ул. Проф. Аван Гергов 3А",
+    "email": "s_p_s1@mail.bg",
+    "latitude": 42.72780129,
+    "longitude": 23.32388617
+  },
+  {
+    "city": "София",
+    "serviceName": "СИОН-ТД ЕООД",
+    "phoneNumber": "0889 808 999",
+    "address": "бул. Цветан Лазаров 99",
+    "email": "siontd.service@gmail.com",
+    "latitude": 42.6534577,
+    "longitude": 23.40400037
+  },
+  {
+    "city": "София",
+    "serviceName": "Тандер Корпорация ЕАД -Бояна",
+    "phoneNumber": "02 818 31 57",
+    "address": "кв. Бояна ул. Лунна папрат 3",
+    "email": "priemchik@tanderbg.com",
+    "latitude": 42.66003854,
+    "longitude": 23.26012254
+  },
+  {
+    "city": "София",
+    "serviceName": "Тандер Корпорация ЕАД -ж.к. Дружба",
+    "phoneNumber": "0888 323 131",
+    "address": "ж.к. Дружба бул. Ц. Лазаров 99",
+    "email": "ivelin.ivanov@tanderbg.com",
+    "latitude": 42.65360762,
+    "longitude": 23.40385017
+  },
+  {
+    "city": "София",
+    "serviceName": "Тара Кар ООД",
+    "phoneNumber": "0888 496 817",
+    "address": "Х.Димитър ул.Бдин 1",
+    "email": "tara_car@abv.bg и silvia.zafirova@gmail.com",
+    "latitude": 42.7068394,
+    "longitude": 23.3410799
+  },
+  {
+    "city": "София",
+    "serviceName": "Техно Колор Груп",
+    "phoneNumber": "0888 258 757",
+    "address": "кв. Гео Милев ул. акад. Георги Бончев 2",
+    "email": "tehnocolor@mail.bg",
+    "latitude": 42.67479069,
+    "longitude": 23.37038103
+  },
+  {
+    "city": "София",
+    "serviceName": "Топ Пейнт ООД",
+    "phoneNumber": "0896 65 55 44",
+    "address": "бул. Никола Габровски 100",
+    "email": "top.q@abv.bg",
+    "latitude": 42.65854546,
+    "longitude": 23.3481799
+  },
+  {
+    "city": "София",
+    "serviceName": "ТОПЕС ООД",
+    "phoneNumber": "0885/828309",
+    "address": "ул.Резбарска 9",
+    "email": "topes_ood@abv.bg",
+    "latitude": 42.71625391,
+    "longitude": 23.35949971
+  },
+  {
+    "city": "София",
+    "serviceName": "ТРИНИТИ КЛУБ ЕООД",
+    "phoneNumber": "0885/923053",
+    "address": "Младост 1 Ал. Малинов 36 / авто център Вип Сервиз/",
+    "email": "autotrinity@gmail.com",
+    "latitude": 42.64975118,
+    "longitude": 23.37728245
+  },
+  {
+    "city": "София",
+    "serviceName": "ТУРИСТ СЕРВИЗ РЕНТ А КАР ЕООД",
+    "phoneNumber": "0887 759 970",
+    "address": "кв. Христо Ботев УЛ. САРАНЦИ № 47",
+    "email": "auto@six.bg",
+    "latitude": 42.69654776,
+    "longitude": 23.38366043
+  },
+  {
+    "city": "София",
+    "serviceName": "Унисек ЕООД",
+    "phoneNumber": "0888 510 220",
+    "address": "Овча купел бул. Н. Мушанов, 116",
+    "email": "auto_express@abv.bg",
+    "latitude": 42.68993172,
+    "longitude": 23.27735817
+  },
+  {
+    "city": "София",
+    "serviceName": "ХИДРОЛИФТ МК ЕООД",
+    "phoneNumber": "0896 603 880",
+    "address": "ул. Бойчо Бойчев 93А / Околовръстен път /",
+    "email": "office@hidroliftbg.com",
+    "latitude": 42.68733124,
+    "longitude": 23.23246464
+  },
+  {
+    "city": "Стара Загора",
+    "serviceName": "Автостъкла ООД / Кобра /",
+    "phoneNumber": "888790700",
+    "address": "кв. Индустриален 6000",
+    "email": "stzagora@autoglass.bg",
+    "latitude": 42.41140262,
+    "longitude": 25.62537232
+  },
+  {
+    "city": "Стара Загора",
+    "serviceName": "АУТО ВИА ЕООД",
+    "phoneNumber": "042 280 280",
+    "address": "ул. Новозагорско Шосе 03218",
+    "email": "autoviaservice@gmail.com",
+    "latitude": 42.43790143,
+    "longitude": 25.70777366
+  },
+  {
+    "city": "Стара Загора",
+    "serviceName": "Ауто Партнер ЕООД",
+    "phoneNumber": "0897 261 800",
+    "address": "кв.Казански бл.26",
+    "email": "auto_parthners2007@abv.bg",
+    "latitude": 42.41489298,
+    "longitude": 25.61292517
+  },
+  {
+    "city": "Стара Загора",
+    "serviceName": "Бултранс ООД",
+    "phoneNumber": "0896 867967",
+    "address": "ул. Ведрина 2",
+    "email": "suzuki.bultrans.stz@gmail.com",
+    "latitude": 42.39486023,
+    "longitude": 25.64388655
+  },
+  {
+    "city": "Стара Загора",
+    "serviceName": "Венцентар ЕООД",
+    "phoneNumber": "0887 919181",
+    "address": "ул. Велики Преслав 18",
+    "email": "vencentar@abv.bg",
+    "latitude": 42.39553809,
+    "longitude": 25.64441445
+  },
+  {
+    "city": "Стара Загора",
+    "serviceName": "Вива Макс Сервиз ООД",
+    "phoneNumber": "042 / 657070",
+    "address": "бул. Цар Симеон Велики 27",
+    "email": "milen_kanev@mail.bg",
+    "latitude": 42.42119921,
+    "longitude": 25.61287614
+  },
+  {
+    "city": "Стара Загора",
+    "serviceName": "Гланц - Ников ЕООД",
+    "phoneNumber": "0897 886 640",
+    "address": "ул. Хан Аспарух 4",
+    "email": "glancnikov@abv.bg",
+    "latitude": 42.43411707,
+    "longitude": 25.6288661
+  },
+  {
+    "city": "Стара Загора",
+    "serviceName": "ЕКСЕЛЕНТ ТАНЧЕВ ООД",
+    "phoneNumber": "0888/709150",
+    "address": "ул. Васил Левски бл.62 ап.16",
+    "email": "exelent_tanchev@abv.bg",
+    "latitude": 42.43125374,
+    "longitude": 25.64205
+  },
+  {
+    "city": "Стара Загора",
+    "serviceName": "ЕМ Концепт ООД",
+    "phoneNumber": "0896 615 258",
+    "address": "ул. Ген.Гурко 24",
+    "email": "mc.serviz@abv.bg",
+    "latitude": 42.4217072,
+    "longitude": 25.62012082
+  },
+  {
+    "city": "Стара Загора",
+    "serviceName": "ЗД КАР ЕООД",
+    "phoneNumber": "0894/317666",
+    "address": "ул. Подп. Калитин 55",
+    "email": "djimi3d@abv.bg",
+    "latitude": 42.42829204,
+    "longitude": 25.64376348
+  },
+  {
+    "city": "Стара Загора",
+    "serviceName": "ИТА СЕРВИЗ АД",
+    "phoneNumber": "0887/700118",
+    "address": "кв. Индустриален 6000",
+    "email": "pavlaivanova@ita-service.bg",
+    "latitude": 42.41140262,
+    "longitude": 25.62537232
+  },
+  {
+    "city": "Стара Загора",
+    "serviceName": "Лак Доктор ООД",
+    "phoneNumber": "0885 923 193",
+    "address": "с. Богомилово ул. Берое 8",
+    "email": "lakdoktortt@gmail.com",
+    "latitude": 42.39322695,
+    "longitude": 25.5622465
+  },
+  {
+    "city": "Стара Загора",
+    "serviceName": "Петко Пенев - 2009",
+    "phoneNumber": "0887 331 110",
+    "address": "кв. Три Чучура бл.26",
+    "email": "petkopenev53@gmail.com",
+    "latitude": 42.41905672,
+    "longitude": 25.60286334
+  },
+  {
+    "city": "Стара Загора",
+    "serviceName": "ПЕТРОВ СЕРВИЗ ЕООД",
+    "phoneNumber": "0889/008777",
+    "address": "бул. Никола Петков 73",
+    "email": "vasil@citroen-sz.com",
+    "latitude": 42.42971314,
+    "longitude": 25.66375873
+  },
+  {
+    "city": "Стара Загора",
+    "serviceName": "Спектър МТ ЕООД",
+    "phoneNumber": "0888 628 832",
+    "address": "бул. Никола Петков 41",
+    "email": "marintenev1@gmail.com",
+    "latitude": 42.42831457,
+    "longitude": 25.65467265
+  },
+  {
+    "city": "Стара Загора",
+    "serviceName": "ФБ АУТО ЕООД",
+    "phoneNumber": "884740071",
+    "address": "бул. Н.Петков 69",
+    "email": "g.tenev@fbauto.bg",
+    "latitude": 42.43268424,
+    "longitude": 25.68552284
+  },
+  {
+    "city": "Троян",
+    "serviceName": "Топ Ауто 76 ЕООД",
+    "phoneNumber": "0878 153 657",
+    "address": "ул.Хаджи Димитър 2",
+    "email": "topauto88@abv.bg",
+    "latitude": 42.89215412,
+    "longitude": 24.7103609
+  },
+  {
+    "city": "Тутракан",
+    "serviceName": "Ел - Коц ЕООД",
+    "phoneNumber": "889 743 060",
+    "address": "ул. Трансмариска 135",
+    "email": "kostadin_1957@abv.bg",
+    "latitude": 44.04211712,
+    "longitude": 26.58752517
+  },
+  {
+    "city": "Търговище",
+    "serviceName": "Автомания Д. Колева",
+    "phoneNumber": "0888 435 533",
+    "address": "Ул. Васил Левски 35",
+    "email": "automania_tg@abv.bg",
+    "latitude": 43.10647128,
+    "longitude": 26.41398227
+  },
+  {
+    "city": "Търговище",
+    "serviceName": "ЕТ Дени - М",
+    "phoneNumber": "0898 658 735",
+    "address": "гр. Попово ул. Бачо Киро 28",
+    "email": "deni.m@abv.bg",
+    "latitude": 43.35379629,
+    "longitude": 26.2278269
+  },
+  {
+    "city": "Търговище",
+    "serviceName": "СКОРПИОН М",
+    "phoneNumber": "0899/865550",
+    "address": "кв. Запад Околовръстно шосе",
+    "email": "targovishte_peugeot@mail.bg",
+    "latitude": 43.24926101,
+    "longitude": 26.57110101
+  },
+  {
+    "city": "Харманли",
+    "serviceName": "Ауто Колор ММ",
+    "phoneNumber": "0888 247176",
+    "address": "ул Бузлудджа 13",
+    "email": "autocolor_mm@mail.bg",
+    "latitude": 41.92555699,
+    "longitude": 25.8926509
+  },
+  {
+    "city": "Харманли",
+    "serviceName": "ДИАМАНТ 2000",
+    "phoneNumber": "0888 803 057",
+    "address": "ул. Люле Бургас 6",
+    "email": "sikkens@abv.bg",
+    "latitude": 41.92487503,
+    "longitude": 25.91611657
+  },
+  {
+    "city": "Хасково",
+    "serviceName": "АКЦЕНТИ ЕООД",
+    "phoneNumber": "0886/977944",
+    "address": "ул. Банска 9",
+    "email": "autotimbmw@abv.bg",
+    "latitude": 41.9347985,
+    "longitude": 25.54251944
+  },
+  {
+    "city": "Хасково",
+    "serviceName": "АНКО ЕООД",
+    "phoneNumber": "0888/605787",
+    "address": "бул. Никола Радев 47",
+    "email": "petar_shubeliev@abv.bg",
+    "latitude": 41.93262303,
+    "longitude": 25.5223321
+  },
+  {
+    "city": "Хасково",
+    "serviceName": "ЕСКОМ ЕООД",
+    "phoneNumber": "038/536119",
+    "address": "бул. Димитровградско шосе 6300",
+    "email": "nikolai_peugeot@escom.bg",
+    "latitude": 41.95436533,
+    "longitude": 25.55795414
+  },
+  {
+    "city": "Хасково",
+    "serviceName": "ЕТ Пламен Малинов - Плам",
+    "phoneNumber": "0886 215 262",
+    "address": "бул България 55",
+    "email": "avtocentar.alfa@abv.bg",
+    "latitude": 41.93096978,
+    "longitude": 25.5543089
+  },
+  {
+    "city": "Хасково",
+    "serviceName": "Макспро-2017 ЕООД",
+    "phoneNumber": "0887 618 322",
+    "address": "бул Никола Радев 24",
+    "email": "maxpro_@abv.bg",
+    "latitude": 41.93308004,
+    "longitude": 25.5215482
+  },
+  {
+    "city": "Хасково",
+    "serviceName": "Минерал Ауто ЕООД",
+    "phoneNumber": "0888 808 790",
+    "address": "Димитровградско шоес 4",
+    "email": "mineral@escom.bg",
+    "latitude": 41.94935932,
+    "longitude": 25.5576176
+  },
+  {
+    "city": "Хасково",
+    "serviceName": "МОТО СТИЛ ЕООД",
+    "phoneNumber": "0887/784641",
+    "address": "бул. Освобождение 240",
+    "email": "mpmshs@motopfohe.bg",
+    "latitude": 41.91487623,
+    "longitude": 25.56182537
+  },
+  {
+    "city": "Хасково",
+    "serviceName": "Мустанг Аутосървис ООД",
+    "phoneNumber": "0887 256 789",
+    "address": "бул. България 33",
+    "email": "mustang_auto@abv.bg",
+    "latitude": 41.93457889,
+    "longitude": 25.54953928
+  },
+  {
+    "city": "Хасково",
+    "serviceName": "Нед Ауто - 86 ЕООД",
+    "phoneNumber": "0878 25 12 49",
+    "address": "с. Въгларово 6313",
+    "email": "ned-auto@abv.bg",
+    "latitude": 41.90487957,
+    "longitude": 25.44507847
+  },
+  {
+    "city": "Хасково",
+    "serviceName": "ФУЛДА БЪЛГАРИЯ",
+    "phoneNumber": "038/604211",
+    "address": "бул. Освобождение 112",
+    "email": "p.petkov@motoexpert.bg",
+    "latitude": 41.91679611,
+    "longitude": 25.56141064
+  },
+  {
+    "city": "Хасково",
+    "serviceName": "Яни Ауто и Ко ЕООД",
+    "phoneNumber": "0898 507 887",
+    "address": "ул. Одеса 3",
+    "email": "iani_auto@abv.bg",
+    "latitude": 41.92632002,
+    "longitude": 25.56088807
+  },
+  {
+    "city": "Хисаря",
+    "serviceName": "ЛИНСИКАР ЕООД",
+    "phoneNumber": "0887 720 557",
+    "address": "ул. Л.Каравелов 13",
+    "email": "liniservis@mail.bg",
+    "latitude": 42.50888562,
+    "longitude": 24.70888007
+  },
+  {
+    "city": "Шумен",
+    "serviceName": "Автостъкла / Кобра Шумен",
+    "phoneNumber": "888838430",
+    "address": "ул. Генерал Скобелев No 85",
+    "email": "shumen@autoglass.bg",
+    "latitude": 43.28198641,
+    "longitude": 26.92229537
+  },
+  {
+    "city": "Шумен",
+    "serviceName": "Авто - Колор ЕООД",
+    "phoneNumber": "0897 83 64 64",
+    "address": "с. Мараш - ул. УПИ XIII Стопански двор",
+    "email": "avtokolor@abv.bg",
+    "latitude": 43.204318,
+    "longitude": 26.95140369
+  },
+  {
+    "city": "Шумен",
+    "serviceName": "АВТО ДАН ЕООД",
+    "phoneNumber": "0898/561605",
+    "address": "Бул. Велики Преслав 238",
+    "email": "avtodan@abv.bg",
+    "latitude": 43.26534348,
+    "longitude": 26.93558097
+  },
+  {
+    "city": "Шумен",
+    "serviceName": "Ал и Ко АД",
+    "phoneNumber": "899 301 160",
+    "address": "ул. Цветан Зангов 2",
+    "email": "office@al-co.bg",
+    "latitude": 43.47231723,
+    "longitude": 26.94480973
+  },
+  {
+    "city": "Шумен",
+    "serviceName": "АНДРЕЕВАВТО",
+    "phoneNumber": "892275286",
+    "address": "ул. Владайско въстание 185",
+    "email": "shumen@kia.bg",
+    "latitude": 43.26596452,
+    "longitude": 26.94547271
+  },
+  {
+    "city": "Шумен",
+    "serviceName": "Ван-Ко Авто ЕООД",
+    "phoneNumber": "0898 573 504",
+    "address": "ул. Алеко Константинов 8",
+    "email": "vankoauto888@abv.bg",
+    "latitude": 43.27255681,
+    "longitude": 26.93556034
+  },
+  {
+    "city": "Шумен",
+    "serviceName": "Венци Шумен ЕООД",
+    "phoneNumber": "54874341",
+    "address": "бул. Симеон Велики 12",
+    "email": "service_shumen@venci.bg",
+    "latitude": 43.28000171,
+    "longitude": 26.9648637
+  },
+  {
+    "city": "Шумен",
+    "serviceName": "Виплам ЕООД",
+    "phoneNumber": "0899 13 13 23",
+    "address": "бул. Симеон Велики 2",
+    "email": "p_ribarski@abv.bg",
+    "latitude": 43.27671212,
+    "longitude": 26.95029544
+  },
+  {
+    "city": "Шумен",
+    "serviceName": "Евротар ЕООД",
+    "phoneNumber": "0885/918390",
+    "address": "Бул. Мадара 42",
+    "email": "shumen@inkotar.com",
+    "latitude": 43.2709354,
+    "longitude": 26.93714654
+  },
+  {
+    "city": "Шумен",
+    "serviceName": "ИЖИ ООД",
+    "phoneNumber": "0888 535 780",
+    "address": "ул. Мадара 7",
+    "email": "igi.avt@gmail.com",
+    "latitude": 43.26529904,
+    "longitude": 26.95041854
+  },
+  {
+    "city": "Шумен",
+    "serviceName": "РВ Технолоджи ЕООД",
+    "phoneNumber": "0876 19 24 18",
+    "address": "ул. Цар Иван Александър №91",
+    "email": "taxlawyer@abv.bg",
+    "latitude": 43.27324391,
+    "longitude": 26.93828644
+  },
+  {
+    "city": "Шумен",
+    "serviceName": "ХАРИЗАНОВ АУТО 97",
+    "phoneNumber": "0893/349293",
+    "address": "ул. Априлов 18",
+    "email": "harizanov_auto_97_eood@mail.bg",
+    "latitude": 43.27664171,
+    "longitude": 26.9248158
+  },
+  {
+    "city": "Ямбол",
+    "serviceName": "АИД КАР - И.Колев ЕТ",
+    "phoneNumber": "0889 004 730",
+    "address": "ул.Пирин 2",
+    "email": "aid_kar@abv.bg",
+    "latitude": 42.49235482,
+    "longitude": 26.49511328
+  },
+  {
+    "city": "Ямбол",
+    "serviceName": "АНДРЕ ЕООД",
+    "phoneNumber": "0897/919332",
+    "address": "ул. Сердика 3",
+    "email": "boshevi@gmail.com",
+    "latitude": 42.48374846,
+    "longitude": 26.50181173
+  },
+  {
+    "city": "Ямбол",
+    "serviceName": "БИ АУТО ЕООД",
+    "phoneNumber": "0898/518835",
+    "address": "ул.Обходен път 90",
+    "email": "BI_AUTO@ABV.BG",
+    "latitude": 42.48158784,
+    "longitude": 26.53122542
+  },
+  {
+    "city": "Ямбол",
+    "serviceName": "ДСП Ауто ЕООД - ПДР технология",
+    "phoneNumber": "0876 79 79 97",
+    "address": "ул. Парчевич № 2-А-3",
+    "email": "info@dspauto.eu",
+    "latitude": 42.48562393,
+    "longitude": 26.5065963
+  },
+  {
+    "city": "Ямбол",
+    "serviceName": "ЕТ Хаджи Грудев и Син",
+    "phoneNumber": "888772713",
+    "address": "Стара Планина бл.2 вх. Е ет.1",
+    "email": "bgglass@mail.bg",
+    "latitude": 42.48380163,
+    "longitude": 26.51076197
+  },
+  {
+    "city": "Ямбол",
+    "serviceName": "Модемара - М. Иванова ЕТ",
+    "phoneNumber": "0888 512 604",
+    "address": "с. Веселиново ул Ал. Зограв 15",
+    "email": "demon@netbg.com",
+    "latitude": 42.53282036,
+    "longitude": 26.54476282
+  },
+  {
+    "city": "София",
+    "serviceName": "Йорс ООД",
+    "phoneNumber": "0878 516 495",
+    "address": "ул. Коломан №1",
+    "email": "yors.ood@gmail.com",
+    "latitude": 42.67926096,
+    "longitude": 23.27263507
+  },
+  {
+    "city": "Шумен",
+    "serviceName": "Ауто Глас Експрес ЕООД",
+    "phoneNumber": "0895 615 089",
+    "address": "бул. Ул. „Съединение“ № 217",
+    "email": "glassexpres@abv.bg",
+    "latitude": 43.26784809,
+    "longitude": 26.91196105
+  }
+]
